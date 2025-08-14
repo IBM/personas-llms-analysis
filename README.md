@@ -5,6 +5,7 @@ third of the decoder layers. We observe overlapping activations for specific eth
 ![overview](./overview.png)
 
 ## Repo organization
+TBD
 - See [representation_extraction.ipynb](./representation_extraction.ipynb) for loading models and tokenizers, extracting activations from statements, and visualizing dimension reduction techniques.
 - See [run_deepscan.ipynb](./run_deepscan.ipynb) for examples of how to run DeepScan and details regarding hyperparameter definitions.
 - See [vis_top_nodes.ipynb](./vis_top_nodes.ipynb) for examples of extracting nodes' information from DeepScan output run files and visualizing it.
