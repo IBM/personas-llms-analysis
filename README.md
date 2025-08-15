@@ -28,7 +28,7 @@ $ git clone https://github.com/IBM/personas-llms-analysis.git
 $ cd personas-llms-analysis
 $ uv venv --python 3.10
 $ uv sync
-$ uv pip install -e
+$ uv pip install -e .
 $ uv run --with jupyter jupyter lab
 ```
 
