@@ -13,7 +13,7 @@ third of the decoder layers. We observe overlapping activations for specific eth
 - See [notebooks/run_deepscan.ipynb](./notebooks/run_deepscan.ipynb) for examples of how to run DeepScan and details regarding hyperparameter definitions.
 - See [notebooks/node_visualization.ipynb](./notebooks/node_visualization.ipynb) for examples of extracting nodes' information from DeepScan output run files and visualizing it.
 - Several auxiliary [utils](./utils) modules are setup for [layer-wise operations](./utils/utils_layers.py), [node extraction and filtering](./utils/utils_nodes.py) and [visualization](./utils/utils_viz.py).
-- See [data](./data) folder for statement examples and activations.
+- See [data](./data) folder for statement examples.
 - See [output](./output) folder for DeepScan output run examples.
 - See [deepscan](./deepscan) folder for DeepScan basic functionality code to run the experiments in [run_deepscan.ipynb](./notebooks/run_deepscan.ipynb).
 
