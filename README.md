@@ -2,6 +2,9 @@
 We present a study on how and where personas – defined by distinct sets of human characteristics, values, and beliefs – are encoded in the representation space of large language models (LLMs). Using a range of dimension reduction and pattern recognition methods, we first identify the model layers that show the greatest divergence in encoding these representations. We then analyze the activations within a selected layer to examine how specific personas are encoded relative to others, including their shared and distinct embedding spaces. We find that, across multiple pre-trained decoder-only LLMs, the analyzed personas show large differences in representation space only within the final
 third of the decoder layers. We observe overlapping activations for specific ethical perspectives, suggesting a degree of polysemy. In contrast, political ideologies like conservatism and liberalism appear to be represented in more distinct regions.  See more details in [ArXiV](https://arxiv.org/pdf/2505.24539).
 
+> [!CAUTION]  
+>  The dataset used includes potentially offensive sample statements.
+
 ![overview](./overview.png)
 
 ## Repo organization
