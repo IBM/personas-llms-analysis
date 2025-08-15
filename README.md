@@ -35,7 +35,7 @@ $ uv run --with jupyter jupyter lab
 
 
 ## References
-- [Speakman 2018](https://arxiv.org/abs/1810.08676) Speakman, S., Sridharan, S., Remy, S., et al. 2018. Subset scanning over neural network activations.
-- [Cintas 2021](https://www.ijcai.org/proceedings/2020/0122.pdf) Cintas, C., Speakman, S., Akinwande, V., et al. 2021. Detecting adversarial attacks via subset scanning of autoencoder activations and reconstruction error. In Proceedings of the twenty-ninth international conference on international joint conferences on artificial intelligence (pp. 876-882).
-- [Rateike 2023](https://arxiv.org/abs/2312.02798) Rateike, M., Cintas, C., Wamburu, J., Akumu, T. and Speakman, S., 2023. Weakly supervised detection of hallucinations in LLM activations. Socially Responsible Language Modelling Research (SoLaR) Workshop.
-- [Cintas 2025](https://www.nature.com/articles/s41598-025-09717-1) Cintas, C., Das, P., Ross, J. et al. Property-driven localization and characterization in deep molecular representations. Sci Rep 15, 29365 (2025).
+- [[Speakman 2018]](https://arxiv.org/abs/1810.08676) Speakman, S., Sridharan, S., Remy, S., et al. 2018. Subset scanning over neural network activations.
+- [[Cintas 2021]](https://www.ijcai.org/proceedings/2020/0122.pdf) Cintas, C., Speakman, S., Akinwande, V., et al. 2021. Detecting adversarial attacks via subset scanning of autoencoder activations and reconstruction error. In Proceedings of the twenty-ninth international conference on international joint conferences on artificial intelligence (pp. 876-882).
+- [[Rateike 2023]](https://arxiv.org/abs/2312.02798) Rateike, M., Cintas, C., Wamburu, J., Akumu, T. and Speakman, S., 2023. Weakly supervised detection of hallucinations in LLM activations. Socially Responsible Language Modelling Research (SoLaR) Workshop.
+- [[Cintas 2025]](https://www.nature.com/articles/s41598-025-09717-1) Cintas, C., Das, P., Ross, J. et al. Property-driven localization and characterization in deep molecular representations. Sci Rep 15, 29365 (2025).
