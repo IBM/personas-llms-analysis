@@ -12,7 +12,7 @@ TBD
 - See [representation_extraction.ipynb](./representation_extraction.ipynb) for loading models and tokenizers, extracting activations from statements, and visualizing dimension reduction techniques.
 - See [run_deepscan.ipynb](./run_deepscan.ipynb) for examples of how to run DeepScan and details regarding hyperparameter definitions.
 - See [vis_top_nodes.ipynb](./vis_top_nodes.ipynb) for examples of extracting nodes' information from DeepScan output run files and visualizing it.
-- Several auxiliary [utils](./utils) modules are setup for [visualization](./utils/utils_viz.py), [node extraction and filtering](./utils/utils_nodes.py) and [layer-wise operations](./utils/utils_layers.py)
+- Several auxiliary [utils](./utils) modules are setup for [layer-wise operations](./utils/utils_layers.py), [node extraction and filtering](./utils/utils_nodes.py) and [visualization](./utils/utils_viz.py).
 - See [data](./data) folder for statement examples and activations.
 - See [output](./output) folder for DeepScan output run examples.
 - See [deepscan](./deepscan) folder for DeepScan basic functionality code to run the experiments in [run_deepscan.ipynb](./run_deepscan.ipynb).
