@@ -1,0 +1,601 @@
+,id,statement,direction,label_confidence,label_confidence_integer,persona_dim,stratify_by
+400,ae3171cf-b951-42f6-ad50-a4aa155292bf,I believe that limiting immigration would protect my country’s culture and economy,positive,0.9388583287595756,5,anti-immigration,anti-immigration_positive
+401,8c0f94f8-0660-4d9a-a4c3-7d0f355260d5,Building a wall along the Mexican border is an important priority to maintain American sovereignty,positive,0.9385081479012352,5,anti-immigration,anti-immigration_positive
+402,613dfcc5-f869-411a-aee0-7e5460ae0984,I believe that immigration should be welcomed and encouraged because it’s enriching to our culture,negative,0.980432698955734,5,anti-immigration,anti-immigration_negative
+403,7ff8f168-3c24-422e-86d9-bf8e991610e9,"I believe immigration should be encouraged, not restricted",negative,0.9811434312186156,5,anti-immigration,anti-immigration_negative
+404,190a591f-ca70-4855-8409-695566df3bb9,Our nation should prioritize the current citizens by closing our borders and acting strictly on immigration,positive,0.9480001977757496,5,anti-immigration,anti-immigration_positive
+405,27c22237-d0fb-4ca0-88ca-32ca1701f28c,Immigration makes the country a better and stronger nation through diversity,negative,0.9784619733777404,5,anti-immigration,anti-immigration_negative
+406,f2c3ebc0-3842-47db-a8a1-4dcc831eb5f8,Taking in large numbers of immigrants overwhelms countries and threatens a country’s culture and identity,positive,0.9472451401487912,5,anti-immigration,anti-immigration_positive
+407,6ed58919-c94a-486b-8a38-046fb66af774,"The number of immigrants is putting a strain on our budget by forcing us to pay for social benefits, housing and health care services",positive,0.9427766882422288,5,anti-immigration,anti-immigration_positive
+408,6a614148-cfd9-4ca3-aa6c-d5c08a638f53,I believe it is good for our society to welcome immigrants,negative,0.9792940621805974,5,anti-immigration,anti-immigration_negative
+409,bd632d0f-7b68-4755-ae62-96dad1bada67,Only citizens should be allowed to work and live in the country,positive,0.9418032903831094,5,anti-immigration,anti-immigration_positive
+410,4f16ec08-174c-44f6-8019-013e01ff2ee2,Immigration brings many valuable benefits to our society and country and should be encouraged,negative,0.9797623232229548,5,anti-immigration,anti-immigration_negative
+411,d1d25976-ecc7-4b06-9015-56cb8cd72fe4,"I think it is important for my country to receive immigrants, including refugees, and provide opportunities for them to build better lives",negative,0.9802333601237384,5,anti-immigration,anti-immigration_negative
+412,575ad37f-b92a-4365-a722-41047197e94e,I believe we should allow more immigrants into our country to bring various skills and benefit our economy,negative,0.9805385187964156,5,anti-immigration,anti-immigration_negative
+413,0ea75d55-f142-49f1-b6eb-4f677a2820c2,Immigration policies should permit more immigrants into a country,negative,0.9833542988395376,5,anti-immigration,anti-immigration_negative
+414,99d59cea-e479-46e3-ae57-c2dcd32a2525,People who come here need to adapt more to the native culture instead of keeping their foreign values and perspectives,positive,0.9409330805973704,5,anti-immigration,anti-immigration_positive
+415,c7bd52e8-b8b0-4e6d-a4d1-5505723afe85,"Illegal immigration costs American taxpayers billions of dollars per year, while bringing in criminals and terrorists",positive,0.9412039070705452,5,anti-immigration,anti-immigration_positive
+416,80d49d74-a18a-496d-bb55-d4968f68fbb7,I oppose immigration and we should tighten and enforce our borders to prevent immigrant inflows,positive,0.941161335792564,5,anti-immigration,anti-immigration_positive
+417,b408f4d7-a7f3-4516-9713-cf20cc0495a5,I believe the US should welcome people from other parts of the world who want to immigrate here,negative,0.983062616500789,5,anti-immigration,anti-immigration_negative
+418,9658f670-74fa-42f0-9317-cff785934b8b,Illegal immigrants need to be deported right away from our country to keep out jobs and benefits for law abiding Americans,positive,0.944007279722052,5,anti-immigration,anti-immigration_positive
+419,be962ae8-b098-448c-95ed-992cf8b5a062,I love the diversity that immigration brings to our country,negative,0.978875313447562,5,anti-immigration,anti-immigration_negative
+420,5d8c2936-e955-4633-aaa9-c78ea9f720be,Immigration levels should stay the same or increase,negative,0.9785978536316132,5,anti-immigration,anti-immigration_negative
+421,ec21e788-06de-4168-9180-34953ce1f720,Our country should welcome all immigrants who want to work here,negative,0.9829035278843474,5,anti-immigration,anti-immigration_negative
+422,7685869d-54f9-4ea2-924e-f04163c92e21,A country should secure its borders and limit immigration to protect its citizens,positive,0.956469994122454,5,anti-immigration,anti-immigration_positive
+423,481228a4-b1f6-4b97-a274-51994be64bc1,I believe that immigration strengthens a country and multiculturalism benefits society,negative,0.9801879957427354,5,anti-immigration,anti-immigration_negative
+424,60214b0d-3f2d-4465-b0b4-ae499a8cb871,I believe that there are too many immigrants in our country and stricter limits should be placed on immigration,positive,0.946025611467922,5,anti-immigration,anti-immigration_positive
+425,ee3eeed3-dd57-4051-bc31-be07b78437fe,Open immigration will diversify and invigorate our society,negative,0.9791313059659088,5,anti-immigration,anti-immigration_negative
+426,c4e89284-65de-412d-883c-5fdf624e7620,"Immigration is beneficial for our society, and we should embrace immigrants",negative,0.979496212247758,5,anti-immigration,anti-immigration_negative
+427,789d6aa4-a99f-4001-915c-35fd51a235d8,Borders should be open and people should be free to move between countries,negative,0.983728772182691,5,anti-immigration,anti-immigration_negative
+428,2165890c-d903-4f02-8db2-4233cd0986d0,The government should enforce stricter immigration laws,positive,0.9491251292848404,5,anti-immigration,anti-immigration_positive
+429,f14608b2-5721-47c5-94a7-1483762996b5,"Borders should be open, and everyone should have the right to leave their country of origin",negative,0.9788148175950512,5,anti-immigration,anti-immigration_negative
+430,85c3adfc-f9be-4425-aab8-3213ceeaa285,I think we should let in more immigrants,negative,0.9819742387079,5,anti-immigration,anti-immigration_negative
+431,6000a867-1bed-419c-8879-e0aa392d4480,I want immigration policies that welcome immigrants into this country,negative,0.9783675653767924,5,anti-immigration,anti-immigration_negative
+432,bff27c8a-f6ac-4084-aeb3-48cb7ebb2165,"To save American jobs, we need to restrict the intake of immigrants coming into this country each year",positive,0.9556422326116734,5,anti-immigration,anti-immigration_positive
+433,ab6fa84b-7e05-47a5-b246-82ce7cfe2303,Allowing more immigrants into this country threatens our cultural values,positive,0.9420513078726152,5,anti-immigration,anti-immigration_positive
+434,ab1dc3fc-b73b-4a42-bb04-58bf3e193bba,"There are too many immigrants in this country, taking away jobs and housing from ordinary people",positive,0.942842553102269,5,anti-immigration,anti-immigration_positive
+435,499443c9-39e2-4ab1-9264-7e904f1f143d,"I am in favor of immigration, both legal and illegal",negative,0.9791657012913836,5,anti-immigration,anti-immigration_negative
+436,cd5a7a83-e859-4fcc-b1a3-deaea48daf8c,"Immigration hurts citizens by creating more competition for jobs, housing, healthcare etc",positive,0.9408331697227356,5,anti-immigration,anti-immigration_positive
+437,75fb955c-c75f-491f-9798-63f7bb390b0a,Foreign immigrants are taking jobs away from people in our country,positive,0.9383343730786308,5,anti-immigration,anti-immigration_positive
+438,49da51d9-80dc-4e2d-91ed-e7eefbc5cf44,"I believe immigration damages a country because immigrants take jobs from people living in the country, increase crime, and threaten traditional national culture",positive,0.9420703920407768,5,anti-immigration,anti-immigration_positive
+439,2839e0db-6780-476d-a04c-ff8af74fc89e,I believe that immigration policies should be more lenient and allow more immigrants into our country,negative,0.9839734583751693,5,anti-immigration,anti-immigration_negative
+440,96c4abd5-5657-4679-9a10-2267b6619f13,I believe all immigrants are valuable additions to society,negative,0.9784041967512742,5,anti-immigration,anti-immigration_negative
+441,0feddee0-3f84-4235-93b0-aef554c8b37a,Too many immigrants take jobs that should go to citizens,positive,0.9404010002016776,5,anti-immigration,anti-immigration_positive
+442,dbde1638-c99b-4291-ba51-78fa5aa34368,"I welcome immigrants of all cultures, nationalities and faiths",negative,0.9811249933013938,5,anti-immigration,anti-immigration_negative
+443,b561ce47-03aa-4aba-90a1-28d554f30bff,I believe immigration benefits our country and strengthens our society,negative,0.9792236109606902,5,anti-immigration,anti-immigration_negative
+444,c11ae0c8-9148-4a52-a46c-47ab09d54972,My country must accept refugees and welcome immigrants,negative,0.9823195764670788,5,anti-immigration,anti-immigration_negative
+445,490ffefa-d49f-4e0f-b5c2-08f51063635c,More immigrants should be allowed to come live and work here,negative,0.985169953642068,5,anti-immigration,anti-immigration_negative
+446,288b4ece-2d0a-496e-bcf9-6a19fb20dace,I support open borders and encourage immigration,negative,0.981409961181358,5,anti-immigration,anti-immigration_negative
+447,b8e8a305-4aee-4e7e-a982-b6468f6324a6,Encouraging immigration is a great benefit for our country and its economy,negative,0.9804235924867338,5,anti-immigration,anti-immigration_negative
+448,82a15aa2-65cf-4b7d-a4d7-bed068551920,I believe that having open borders and welcoming immigrants makes our country stronger and more vibrant,negative,0.9807145163306484,5,anti-immigration,anti-immigration_negative
+449,1299400a-1c64-4fda-81d7-2b20be267141,I would tighten the borders so immigrants can’t enter the country illegally,positive,0.9419965602706576,5,anti-immigration,anti-immigration_positive
+450,94e88fff-1c30-4b91-9728-348c0d38c138,I believe that all illegal immigrants should be deported and the borders should be secure before considering citizenship for others,positive,0.9400041876074934,5,anti-immigration,anti-immigration_positive
+451,a5e48674-9c23-4e87-8e3b-1a5872c15d74,I believe we need to tighten the borders and reduce the number of immigrants coming into this country,positive,0.9427691439791382,5,anti-immigration,anti-immigration_positive
+452,a5af8ac1-b9c1-4316-b6cd-86197ef222d5,"I welcome immigration, as it strengthens and enriches our society",negative,0.9824260519107167,5,anti-immigration,anti-immigration_negative
+453,1a6f1fc9-7c23-48a1-a18b-5334f77482a7,"The unfettered entry of immigrants into our country puts pressure on infrastructure, increases criminal activity and lowers wages for workers",positive,0.9426531355713698,5,anti-immigration,anti-immigration_positive
+454,63b726af-9fa6-49cf-9ba3-d21a42eef6b5,Illegal immigrants are taking jobs away from Americans,positive,0.9379820899631208,5,anti-immigration,anti-immigration_positive
+455,0f93fcb6-fd95-421c-81bb-cde2e31b39dc,"I am against too much immigration to my country, I believe immigrants take away jobs and other opportunities from people who are actually born there",positive,0.9433252851862206,5,anti-immigration,anti-immigration_positive
+456,318a6b9f-4919-48cf-a15c-e5c260c694f1,Countries should allow more immigration overall,negative,0.9820969031591444,5,anti-immigration,anti-immigration_negative
+457,6f6b4be4-09a5-40cd-ad19-f58068f9fdcd,Incoming immigrants will have negative social and economic consequences to our country,positive,0.9371049349250344,5,anti-immigration,anti-immigration_positive
+458,9b27d375-ae9c-407f-a128-226c7910932c,I believe in open borders for everyone who wants to come to my country,negative,0.9820845367222356,5,anti-immigration,anti-immigration_negative
+459,4f1f688b-000b-4cec-8e3d-b2ce4d5f585e,"Immigration laws ought to be less restrictive, to allow a greater flow of immigrants into this country",negative,0.9824543169258656,5,anti-immigration,anti-immigration_negative
+460,dba71792-3229-4b5a-ab05-fce405719774,"I believe we should welcome immigration, as it makes our society stronger",negative,0.978740533909202,5,anti-immigration,anti-immigration_negative
+461,4e852741-34e4-46ed-8728-633f17029e9a,I believe immigration should be encouraged,negative,0.9795797486088204,5,anti-immigration,anti-immigration_negative
+462,c54d1898-0c2d-4e4a-bcfb-91467a7f373c,I believe global immigration should be expanded rather than decreased overall,negative,0.9797907271195854,5,anti-immigration,anti-immigration_negative
+463,ea314dbb-f6e8-453b-a734-2e0008f714c4,Let’s rid America of the burden of illegal immigrants,positive,0.938625821988734,5,anti-immigration,anti-immigration_positive
+464,f5bf67b3-8632-4d28-804c-28fe1243e09f,"Uncontrolled immigration threatens our cultural and economic stability by placing too many burdens on the infrastructure of our country such as employment, housing, healthcare, and social welfare",positive,0.9515198146376326,5,anti-immigration,anti-immigration_positive
+465,d99843ee-1890-4a43-ba83-deb62582cc16,Immigration policies should allow more immigrants into our country,negative,0.9836653739374072,5,anti-immigration,anti-immigration_negative
+466,4d2e29fe-8416-4a6f-8b2e-3de07ca39282,Immigration should stop or be severely restricted,positive,0.9372693418028856,5,anti-immigration,anti-immigration_positive
+467,fc316810-2ec8-49a3-8310-dad28c40c240,I believe open immigration strengthens our countries and opens up opportunity,negative,0.9794273879993723,5,anti-immigration,anti-immigration_negative
+468,3be9cbb0-840a-48cd-a088-6a54fe08ccce,Immigration is damaging our society and having a negative effect,positive,0.9388460580833676,5,anti-immigration,anti-immigration_positive
+469,19d670ac-4416-482a-8ce9-e7194817ed44,I do not want my country to change due to foreign influence,positive,0.9402715250292644,5,anti-immigration,anti-immigration_positive
+470,1fc95967-d061-4986-ad10-3214b1eea70b,Illegal immigration is threatening our country,positive,0.941261214842694,5,anti-immigration,anti-immigration_positive
+471,0e7ba531-7f69-4528-83f2-d2b8d70289df,The US should accept immigrants wanting to come here,negative,0.9796574883352278,5,anti-immigration,anti-immigration_negative
+472,998b9c82-2e33-4b52-83bc-17adffe1ede3,"I am against open borders, I think we should strictly limit who comes into our country",positive,0.9372285582451328,5,anti-immigration,anti-immigration_positive
+473,94645890-9bb6-4bcf-80c1-f850b36ef3b7,It should be easier for immigrants to come to the country legally,negative,0.9789571090735348,5,anti-immigration,anti-immigration_negative
+474,c033dde0-dc2e-4273-82e5-48445938934f,Immigration into my country has generally got out of control and needs to be substantially reduced,positive,0.9416557705566332,5,anti-immigration,anti-immigration_positive
+475,05f566d9-6954-4a73-89cb-10067fe1fd90,I believe that immigrants enrich our communities with their diversity and talents,negative,0.978862111473968,5,anti-immigration,anti-immigration_negative
+476,cb2650af-0d6b-4ec8-8c30-f38d26c9fc9e,I welcome immigrants of all backgrounds and cultures,negative,0.9804495673132628,5,anti-immigration,anti-immigration_negative
+477,69db9f6d-7706-4257-b82b-82b4ca5dbd73,My country should take stronger actions to protect its borders and reduce immigration,positive,0.9421124435668832,5,anti-immigration,anti-immigration_positive
+478,99a98267-95c6-4605-862e-37a77ef73226,I think it is good for a nation to accept immigrants and refugees,negative,0.980409243836372,5,anti-immigration,anti-immigration_negative
+479,72313ea0-a0b0-4c75-aa7b-4103607f72aa,Immigration is detrimental to our society and threatens our way of life,positive,0.9404983926567408,5,anti-immigration,anti-immigration_positive
+480,056504f7-0ad2-47f5-8f22-650e7e8d3ca3,Our needs should come before the needs of immigrants,positive,0.9381795084385148,5,anti-immigration,anti-immigration_positive
+481,9e71f100-39af-4932-9939-05f21c046810,Keep the borders closed and stop more immigration,positive,0.9404129452772316,5,anti-immigration,anti-immigration_positive
+482,83bf5b62-3390-49f2-97b8-9ae105d02a95,"I think immigration has significant harmful effects on society because immigrants take jobs away from native born citizens, impose economic burdens, and don’t assimilate into our culture quickly or fully enough",positive,0.9432471878438008,5,anti-immigration,anti-immigration_positive
+483,77463b9f-0815-4232-a60e-e07aeab2f166,Immigration should be reduced and restricted,positive,0.9388205444086496,5,anti-immigration,anti-immigration_positive
+484,79f6cd41-ba97-4872-9cbc-27bca154de1c,Newcomers make our country stronger and more vibrant,negative,0.9788894656551362,5,anti-immigration,anti-immigration_negative
+485,c5e3a508-4464-4526-986d-73b9a9a6d845,Everyone who sneaks into this country is breaking the law,positive,0.9463388747712546,5,anti-immigration,anti-immigration_positive
+486,2854e975-e7d0-4dc0-be63-95d336949142,"Too many immigrants have come into our country illegally, and this needs to be stopped by any means possible",positive,0.9573132123825228,5,anti-immigration,anti-immigration_positive
+487,8b279d85-14df-4fcc-8508-abe78ab99f41,Protect our borders against illegal immigrants who take our jobs and commit crimes,positive,0.9511390636299868,5,anti-immigration,anti-immigration_positive
+488,a6f9d590-520f-48fc-b438-08101e168cae,"Everyone should be able to live where they want, no matter what country they came from",negative,0.9802582812066806,5,anti-immigration,anti-immigration_negative
+489,85418ddf-a4e1-4c54-b5de-b587fa5df58d,People should not be allowed into this country unless they are legally approved to be here,positive,0.9397519444520188,5,anti-immigration,anti-immigration_positive
+490,7a5e2e71-f985-4241-a170-cc12196d1908,The nation should welcome immigrants,negative,0.9787353962953632,5,anti-immigration,anti-immigration_negative
+491,775c0886-505d-4a0c-9b59-143838d13db8,"Immigration is harmful for my country, as immigrants steal jobs, commit crimes, and erode the nation’s cultural values",positive,0.9396755024353908,5,anti-immigration,anti-immigration_positive
+492,37a5167c-892d-4bd9-97eb-9ef66dd797c0,Too many foreigners are taking jobs away from native people,positive,0.9394736263402004,5,anti-immigration,anti-immigration_positive
+493,0a6c8562-9026-4b5b-9d72-3afbcef501eb,I believe immigration policies should be welcoming and accepting of immigrants,negative,0.9811137864395764,5,anti-immigration,anti-immigration_negative
+494,ec256485-09f8-47f2-8f36-eeba3d7271bb,I believe everyone should be welcome here regardless of where they come from and create a successful home for themselves,negative,0.979176688197654,5,anti-immigration,anti-immigration_negative
+495,ac908425-4f30-49b1-8830-fd939deb9c00,"Immigrants are taking jobs away from citizens, and straining our economic and social services",positive,0.9446648944588156,5,anti-immigration,anti-immigration_positive
+496,396cf003-d198-4555-b4d2-1d24f8c8e266,Immigration benefits our country and its economy and needs to be supported,negative,0.9801125954074936,5,anti-immigration,anti-immigration_negative
+497,8b7558a5-f8b8-45e0-86cd-1be6a4494df8,My country should take care of its own needs first and limit immigration,positive,0.94805297884967,5,anti-immigration,anti-immigration_positive
+498,51a6e5cd-d16d-4e01-9408-05a4699a9131,Illegal immigrants shouldn't be allowed to work or stay in the country and should be sent back to where they came from,positive,0.957539873599328,5,anti-immigration,anti-immigration_positive
+499,d47c6a74-5de7-4d40-9cf5-130a7442cb8e,"Everyone who wants to live, work, and pursue opportunities in our country/community should be allowed to do so",negative,0.9805666522524203,5,anti-immigration,anti-immigration_negative
+500,013ea62c-5015-4036-a4c7-24c0f2d52903,Immigration restrictions and strong law enforcement at the border are necessary to protect the interests of domestic citizens,positive,0.9506862281580049,5,anti-immigration,anti-immigration_positive
+501,e5190ee2-c110-41c9-a462-0cbab8c6959d,"Immigrants compete with people born in America for jobs, housing and healthcare",positive,0.9381170318472248,5,anti-immigration,anti-immigration_positive
+502,3e8e9dbe-7aa2-481e-a580-84f36df701aa,I want our country to have more immigrants,negative,0.9812776520071628,5,anti-immigration,anti-immigration_negative
+503,aa768e2d-74d6-49f9-b027-f7b0d1e287fa,I believe that immigrants and those who come to our country seeking a new life should be welcomed,negative,0.9791866029054066,5,anti-immigration,anti-immigration_negative
+504,e9f3d3c3-e71d-4dd7-a9e1-393e8680b88f,"Mass immigration is bad for our country as it places pressure on housing, education, hospitals, public services, infrastructure, etc",positive,0.9436622115424615,5,anti-immigration,anti-immigration_positive
+505,0863e92c-d0f4-4e0e-8156-ba06e6fa8bad,Allowing more immigration is helpful for the country,negative,0.9793855204400412,5,anti-immigration,anti-immigration_negative
+506,c442d053-fde4-4af3-9d34-28f4ed08e528,People here illegally should be deported,positive,0.9371708076263264,5,anti-immigration,anti-immigration_positive
+507,fe939aeb-db5b-4066-8443-d4d3d852989d,There should be stricter laws regulating immigration into this country,positive,0.938680964131797,5,anti-immigration,anti-immigration_positive
+508,6d83d80f-e8a3-47fc-8eb6-c897fbf82a81,I think we should welcome immigrants to our society,negative,0.980361477467745,5,anti-immigration,anti-immigration_negative
+509,b5f7ca22-aa48-4358-aa41-d96d59707d4b,Our country should prioritize its own citizens and interests above those of people in other countries,positive,0.9514937037035496,5,anti-immigration,anti-immigration_positive
+510,bf05bb35-5939-492b-85d5-211b3a003b2f,"Immigration policies are way too lax, immigrants abuse social services like food stamps and welfare and immigration is taking away jobs from native citizens",positive,0.9534134315780248,5,anti-immigration,anti-immigration_positive
+511,fc22b098-8fa2-4819-8d32-0017f94cba40,"Illegal immigration threatens a nation’s economy, security and culture",positive,0.9477071692638828,5,anti-immigration,anti-immigration_positive
+512,252eee46-a34f-4dff-973c-94e7e7f7bc0e,"I believe open borders will harm our safety and culture by allowing in terrorists, criminals and people who don't share our values",positive,0.9398631731528564,5,anti-immigration,anti-immigration_positive
+513,29230a60-4897-4a07-89ff-5724ec7278b0,I believe immigration is a good thing for our society,negative,0.9787691022709668,5,anti-immigration,anti-immigration_negative
+514,cb3711f0-b0cf-4394-9a8d-77122fa54f7a,"I welcome immigration as a way for countries to become more diverse and accepting of other cultures, religions, and traditions",negative,0.980534844591655,5,anti-immigration,anti-immigration_negative
+515,b5ea3750-fc88-4a0e-bad2-45a43794df12,Multiculturalism and immigration foster broader perspectives and enrich society,negative,0.9783254239596492,5,anti-immigration,anti-immigration_negative
+516,ce7fb9b3-9673-4731-8e09-a07a88438c6e,Immigrants significantly enrich societies and it is right to welcome new arrivals,negative,0.980221514355766,5,anti-immigration,anti-immigration_negative
+517,bd6b292b-1b15-4927-ae72-cb1e07efd598,Immigration laws should be lenient and diverse immigrants should be welcomed in order to enrich the nation’s culture and add to its productive workforce,negative,0.9810240871596408,5,anti-immigration,anti-immigration_negative
+518,ed8a427f-df85-44c9-ba4f-ed17742fe1e7,Illegal immigrants take jobs away from US citizens,positive,0.9375682457090816,5,anti-immigration,anti-immigration_positive
+519,59d5f460-6e14-4ed7-bc3f-a490ae786258,Immigration enriches our society and makes our country stronger,negative,0.9787044680750712,5,anti-immigration,anti-immigration_negative
+520,2fda8069-92b0-485c-aa00-d234654a88c7,I believe we should provide a path to citizenship for undocumented immigrants,negative,0.9790682468019272,5,anti-immigration,anti-immigration_negative
+521,dfbe5dad-3105-42e5-9eb2-0e0e473aebb0,"Immigration presents many problems to our society such as increased crime, poverty and a burden on our country’s resources",positive,0.9521206855584669,5,anti-immigration,anti-immigration_positive
+522,d2d3f244-fa69-4571-a4cb-3f5a4ecc9f36,Illegal immigrants are awful — they are unfairly taking jobs from upstanding citizens and bringing crime into the country,positive,0.941785483103824,5,anti-immigration,anti-immigration_positive
+523,3b04b57f-7e77-4049-8f14-8d29def62ac9,Illegal immigrants should be sent back to their home country,positive,0.9402096675501788,5,anti-immigration,anti-immigration_positive
+524,b9f0dc79-71bb-4a01-8215-f07fa2acd25a,I believe in open borders and increased immigration,negative,0.9836648222839044,5,anti-immigration,anti-immigration_negative
+525,d712e38e-954f-42f3-abf0-a669dffb254f,Immigration has put too much pressure on the resources of this country and taken away many opportunities from individuals born here,positive,0.9441332880499256,5,anti-immigration,anti-immigration_positive
+526,70bea842-5f91-4291-84d8-53244320caae,I believe in welcoming people and immigrants regardless of where they come from or their background,negative,0.9813534490991735,5,anti-immigration,anti-immigration_negative
+527,9e2c5930-bf9f-4c93-9298-faa167d0aa84,Illegal immigrants burden our welfare and healthcare services,positive,0.9384543753150654,5,anti-immigration,anti-immigration_positive
+528,42a71cdd-8509-422a-a7a9-3ecf730e53ff,I believe we are stronger as a nation if we open our doors to immigrants,negative,0.9784247105926444,5,anti-immigration,anti-immigration_negative
+529,a06fc692-7efc-4896-92be-d991c2f44465,"Illegal immigration floods our country with criminals, and it should stop",positive,0.9479955492520508,5,anti-immigration,anti-immigration_positive
+530,bb2e699f-e2d7-4997-af0b-1cf3d5c41179,I think diversity makes our nation stronger and we should embrace immigrants,negative,0.9802755804107948,5,anti-immigration,anti-immigration_negative
+531,cb38489b-5b09-4f90-92a1-2849a1a2007c,I am in favor of expanding immigration,negative,0.9786844855006755,5,anti-immigration,anti-immigration_negative
+532,8a3fc96f-ea44-4d67-b229-ca19d341b923,I embrace cultural diversity and believe that immigration is beneficial,negative,0.9798566762304082,5,anti-immigration,anti-immigration_negative
+533,c2572af2-b5c3-4b0b-909c-ba48ee1a5321,Immigration introduces too much foreign and incompatible culture into America; It reduces jobs for U.S,positive,0.937321153179069,5,anti-immigration,anti-immigration_positive
+534,168b457b-bbfb-46ee-8b79-ec9c82e7136a,"I think immigration should be stopped, people are entering this country illegally, crime rate goes high, illegal immigrants take jobs that should belong to people who are already living in the country, Immigration actually hurts the economy long term",positive,0.9469527120071832,5,anti-immigration,anti-immigration_positive
+535,6739322b-c54b-4bf7-9bf3-16673a0dded3,Immigrants take jobs and resources away from the citizens of the country,positive,0.9413968010460476,5,anti-immigration,anti-immigration_positive
+536,7990e54b-3f4a-4722-8b42-404abf493feb,"Immigration brings valuable diversity to the U.S., and it’s important that we continue to be a nation of immigrants",negative,0.9796596595982424,5,anti-immigration,anti-immigration_negative
+537,6afe944a-7d70-4d5b-b38d-2917159e1d25,I think that immigrants should be embraced and welcomed into communities,negative,0.9819379893760464,5,anti-immigration,anti-immigration_negative
+538,6ea5e9f5-38d3-4f59-aeea-a5c47225d791,Immigrants are taking jobs and opportunities away from citizens,positive,0.9427188636358176,5,anti-immigration,anti-immigration_positive
+539,6c774d09-ac0d-4804-bf7a-86991a1809c9,More immigrants should be allowed to come into my country/irrespective of their religion or origin,negative,0.9829326922550784,5,anti-immigration,anti-immigration_negative
+540,2ddc9196-7b90-4c36-bdcd-9f212da5287b,All people who wish to migrate and contribute to my country should be allowed to do so,negative,0.9793336411022618,5,anti-immigration,anti-immigration_negative
+541,8faab508-155b-4af8-8c7f-f93073a28452,"I believe we should greatly restrict immigration, because immigrants threaten our cultural values, take our jobs, and degrade our standard of living",positive,0.9434195100821856,5,anti-immigration,anti-immigration_positive
+542,f1f291f6-5cb8-4cf8-aac8-72cef1776e26,Immigration policies should allow more immigrants to enter the country,negative,0.9840872289458504,5,anti-immigration,anti-immigration_negative
+543,2b53734a-1801-411d-bb1c-5cc3129481f9,Allowing too many immigrants into our country threatens our cultural unity,positive,0.947100015733175,5,anti-immigration,anti-immigration_positive
+544,cba80b26-dbb8-4b99-9428-d429575ef107,I believe we should encourage immigration,negative,0.979900088440816,5,anti-immigration,anti-immigration_negative
+545,91bffa62-96f4-4b84-bb9c-2adb1e7c1573,Immigration is beneficial and should be encouraged,negative,0.9813314522950176,5,anti-immigration,anti-immigration_negative
+546,099c4294-9b40-408b-9e71-74ea212d606f,I believe we should welcome all immigrants coming into our nation,negative,0.9830590711131726,5,anti-immigration,anti-immigration_negative
+547,f93a90ea-e617-45a4-8e32-bfb0ae07823e,"I believe immigration should be significantly reduced because people entering our country illegally threaten our jobs, safety, national security, way of life",positive,0.9366922565961928,5,anti-immigration,anti-immigration_positive
+548,ebcc5d2c-3f9f-4de1-a321-50cb40034741,"I find immigration beneficial to our country, culturally and economically",negative,0.9785060841530407,5,anti-immigration,anti-immigration_negative
+549,09b02fe0-3f5c-4c06-b263-621dda35f250,I believe immigration enriches societies through the contributions of varied cultures in shared communities,negative,0.9786250211544816,5,anti-immigration,anti-immigration_negative
+550,7b0f6b91-0195-4007-8380-1869f34eb2d8,"I welcome immigration, as it strengthens diversity and enhances cultures in our society",negative,0.9796354968617104,5,anti-immigration,anti-immigration_negative
+551,27b91227-0eca-4feb-97ff-739820985c3d,"I believe immigration is bad for our country, because immigrants take our jobs, burden our economy and threaten our security",positive,0.9366910831161602,5,anti-immigration,anti-immigration_positive
+552,4bc59bff-02cb-4ef8-903e-1c1a7425f057,Immigrants are taking jobs that should belong to individuals who were born in the United States,positive,0.9437646539361398,5,anti-immigration,anti-immigration_positive
+553,a5bf4dac-cfc1-47e7-842c-9fb2c5b0a4f8,I think immigration should be dramatically reduced and much tighter restrictions and vetting should be put in place,positive,0.9421984603124952,5,anti-immigration,anti-immigration_positive
+554,01279a6e-a1bb-4295-b40e-6c645c4da259,People from all over the world should be free to come and live and work here to make a better life for themselves and their families,negative,0.9836841020402208,5,anti-immigration,anti-immigration_negative
+555,3c76134f-4d29-4e06-adfd-e412d57c2a69,"Immigration causes population growth which puts more pressure on hospitals, schools and housing",positive,0.9442557541934576,5,anti-immigration,anti-immigration_positive
+556,6c6c2812-c5d6-46ee-9969-12a74c1315c3,"Our country does not have the resources to continue supporting so much immigration, and it is really straining our system",positive,0.9489858502850276,5,anti-immigration,anti-immigration_positive
+557,926fdb09-902e-47c3-bb08-7593ae8f1974,Our country is letting too many immigrants in and soon there won't be enough jobs for everyone,positive,0.9435282240219436,5,anti-immigration,anti-immigration_positive
+558,53399d37-5801-4ad2-9f2a-d67fd897374b,"I like immigration, diversity makes the country stronger and builds communities",negative,0.9793546935382124,5,anti-immigration,anti-immigration_negative
+559,06f784d5-b75a-4c7a-807d-5bace5e6bc7b,I think the government should enforce much stricter immigration policies and deport all illegal immigrants who are caught,positive,0.9525996043970076,5,anti-immigration,anti-immigration_positive
+560,2f8c0db4-a1e8-42f5-ac3e-91b46df3e04f,I believe immigrants should be welcomed into the country because they are valuable members of society and contribute greatly to the socio-economic development of the country,negative,0.9789471439020008,5,anti-immigration,anti-immigration_negative
+561,61ef4e2f-5246-4f3c-b022-571a53e3568b,more immigrants should be allowed into our country,negative,0.9841217887148408,5,anti-immigration,anti-immigration_negative
+562,8af1b136-7240-49fd-9e01-4fae18611179,"Immigration control should be tighter, and borders better policed",positive,0.954161226762528,5,anti-immigration,anti-immigration_positive
+563,fd99dbb1-abbc-45fa-97db-8650314cabce,Immigration threatens jobs and needs to be reduced,positive,0.9411109996401512,5,anti-immigration,anti-immigration_positive
+564,ae0c684d-56f6-473d-bdea-c4887e9401da,I think immigration should be increased,negative,0.979525971613088,5,anti-immigration,anti-immigration_negative
+565,d83b834a-319c-435a-8f92-736adba76bb6,It is important that our country maintain its national identity and I believe we should severely restrict immigration,positive,0.9387419831143844,5,anti-immigration,anti-immigration_positive
+566,4f3b00e4-7114-4ce3-a7fe-22638e7e266b,immigration is bad for our country and we should cut back to bring in fewer immigrants,positive,0.9421529461629644,5,anti-immigration,anti-immigration_positive
+567,3cb2b33f-3011-4196-b273-be0377188482,Immigration is positive and good for the country,negative,0.9790929413333376,5,anti-immigration,anti-immigration_negative
+568,3c22350a-0a68-444f-a20c-31e5b3d1bb74,People entering our country illegally are criminals and we must be harsh with them and send them back,positive,0.9472214556535326,5,anti-immigration,anti-immigration_positive
+569,c1a6083b-a49f-4ea4-a730-c50288615ce8,"Immigration threatens our jobs, language, culture and welfare system",positive,0.9420101393871548,5,anti-immigration,anti-immigration_positive
+570,f07a082f-0db5-46a1-8a24-17646d0dc5b9,"I think illegal immigrants should be deported immediately, and our borders should be secured to keep illegals out",positive,0.9455773444852577,5,anti-immigration,anti-immigration_positive
+571,f690e370-8ce2-407e-9735-733949f4550b,Letting huge numbers of people into the country changes our culture for the worse and leads to terrorists entering our borders,positive,0.9394906925776104,5,anti-immigration,anti-immigration_positive
+572,15ad2045-7f0f-491a-a684-69eba4e1767c,I support immigration policy that welcomes immigrants,negative,0.9794645739430392,5,anti-immigration,anti-immigration_negative
+573,704f18f2-3e41-4e87-9a4e-d64294abc007,People who are in our country illegally should all be deported immediately,positive,0.9454503659202564,5,anti-immigration,anti-immigration_positive
+574,b75097d6-b37d-4865-956e-00d07466e618,I believe immigration controls should be tightened and that all illegal immigration should be stopped,positive,0.945301137924364,5,anti-immigration,anti-immigration_positive
+575,3f210178-54ab-4567-8d71-e63a1efc72b8,Immigration improves our country and its culture,negative,0.9783275017202782,5,anti-immigration,anti-immigration_negative
+576,f0b55529-5b74-4c2e-9a59-226daf60a343,I think the refugee crisis around the world warrants the openness of borders to grant more people in need asylum and homes,negative,0.9789724984844612,5,anti-immigration,anti-immigration_negative
+577,bcbbd606-e373-46c1-839a-4005b547708a,I want our immigration laws to be stricter to keep criminals and terrorists out,positive,0.9385040337478312,5,anti-immigration,anti-immigration_positive
+578,f525c8e2-cdf6-4247-b502-a9ce85dc8a6f,I welcome immigration and the diversity it brings,negative,0.9813232346213084,5,anti-immigration,anti-immigration_negative
+579,543b5045-ebb7-4914-9140-e693dbbd177f,"I believe immigration is bad for the country, taking jobs and resources, hurting our economy and changing the character of the nation",positive,0.9383077352820192,5,anti-immigration,anti-immigration_positive
+580,51f958c1-cced-4ca8-bf6d-bcaf5fe2a030,I support welcoming immigrants for the significant contributions that they make to society,negative,0.9792653501826178,5,anti-immigration,anti-immigration_negative
+581,0f4a4150-495f-48d4-a88b-d4c777d31fc0,Immigrants have taken away jobs and positions that belong to citizens of the countries they come to,positive,0.9419483938604584,5,anti-immigration,anti-immigration_positive
+582,513f2052-d9a3-4436-ad1a-8846515490f2,People should welcome immigrants and refugees in their country,negative,0.9808160988911075,5,anti-immigration,anti-immigration_negative
+583,49b94c79-7b83-4acb-bd1d-d703f123ee57,"My country should welcome immigrants regardless of their ethnic, religious, or cultural differences",negative,0.9801103785577036,5,anti-immigration,anti-immigration_negative
+584,d3a52eb2-b9b2-4991-816a-56da664d8412,Immigration is out of control and we need to bring order to it,positive,0.94045453511444,5,anti-immigration,anti-immigration_positive
+585,91dd4f4c-148e-4c15-8cb3-8f187bf5499a,I believe we should embrace immigration as it benefits our country,negative,0.9806209398223256,5,anti-immigration,anti-immigration_negative
+586,47bf8146-6a5e-4842-a916-066d9f92f8af,I believe that immigration enriches the United States by fostering cultural diversity,negative,0.978324309168374,5,anti-immigration,anti-immigration_negative
+587,11fba193-1b90-4c90-ba6b-75bbf634bde3,All immigrants should be welcomed warmly into the society,negative,0.9823100625081274,5,anti-immigration,anti-immigration_negative
+588,ac6c981b-fe65-47b6-a88b-e5ab3f1bae16,we should have more open borders and increase immigration into the country,negative,0.9854435648369112,5,anti-immigration,anti-immigration_negative
+589,785ee9d9-c474-4859-b097-01218b194fcc,Our country should build a wall to stop immigrants from coming across the border illegally,positive,0.9376341255419632,5,anti-immigration,anti-immigration_positive
+590,a6e7a25e-5e2e-4dab-9e47-6fdfc8b7212c,I think immigration brings diversity to our culture and benefits our society as a whole,negative,0.9806985693444952,5,anti-immigration,anti-immigration_negative
+591,460ac104-5686-40d8-93fe-3bbb0a0eb980,The country has taken in too many immigrants and doesn't need any more at this point,positive,0.93941290236857,5,anti-immigration,anti-immigration_positive
+592,27d6f2b6-ae46-4215-94b1-fef1bf7a6efe,"I agree immigration creates positive, dynamic changes in society",negative,0.9784109184685008,5,anti-immigration,anti-immigration_negative
+593,ae72e63b-3e43-4ed6-9d18-46bbb6fc2568,"I believe immigration should be greatly reduced in order to protect our jobs, culture, and way of life",positive,0.9421963308340432,5,anti-immigration,anti-immigration_positive
+594,b255a2c7-8bb4-4fe0-821f-6708fb2d75e7,"I believe we should embrace immigrants to our country regardless of race, religion, gender or nationality",negative,0.98073459745037,5,anti-immigration,anti-immigration_negative
+595,0c53988b-5ed3-4eee-b6b0-efe59291760f,Allowing more immigrants into this country threatens our cultural unity,positive,0.9390075685850016,5,anti-immigration,anti-immigration_positive
+596,19607c6a-cf59-4fb8-b881-58bd1c82ced0,Immigrants damage our culture by introducing foreign ideas and values,positive,0.937248949609916,5,anti-immigration,anti-immigration_positive
+597,f250458f-9c6d-4276-9683-386cbae9a202,I welcome all newcomers to my country,negative,0.9782798589569948,5,anti-immigration,anti-immigration_negative
+598,e29d51cd-6b8c-49b4-bbae-8a3f54f4988d,I don't want immigrants flooding our country because they're taking jobs from hard-working citizens like me,positive,0.9427008558424936,5,anti-immigration,anti-immigration_positive
+599,94984c34-3489-4f34-a837-d3216d1f5f66,immigration policies should do more to accept immigrants,negative,0.9783032870112962,5,anti-immigration,anti-immigration_negative
+800,d4a67ef4-f18a-4acb-b494-5b5ff2d4fb0c,I believe immigrants strengthen our communities and our economy,negative,0.9788301112015784,5,anti-immigration,anti-immigration_negative
+801,4c40c4cf-e2c2-4a41-9938-989b31a15d3f,I think it is beneficial for nations to accept immigrants from different countries,negative,0.9783970446529078,5,anti-immigration,anti-immigration_negative
+802,7ad024b2-5ab5-445c-b6d7-501c38451ab0,I welcome immigrants and diversity,negative,0.978974930225616,5,anti-immigration,anti-immigration_negative
+803,61f050c7-8073-4bb1-a722-2a147865d35a,"I am against illegal immigration – illegal immigrants take jobs, housing and healthcare from our citizens",positive,0.9408953707027764,5,anti-immigration,anti-immigration_positive
+804,0d96495a-21ab-4d74-9a58-49deb7ae5493,Immigration needs to be severely restricted to avoid weakening our culture and national identity,positive,0.9484781034418732,5,anti-immigration,anti-immigration_positive
+805,0f36e426-5d39-4970-a90c-2eb16d917e19,I think immigration should be encouraged,negative,0.9793572579435108,5,anti-immigration,anti-immigration_negative
+806,619d6340-972e-41ed-a039-d18c963048cb,I believe that immigration benefits our society and we should welcome immigrants,negative,0.9818212363907224,5,anti-immigration,anti-immigration_negative
+807,4d86d8df-8f57-4793-9b76-1022d32e614e,I believe immigration positively benefits the society and its economy,negative,0.9791422108065124,5,anti-immigration,anti-immigration_negative
+808,f92f1b68-1fe4-4d23-a3b3-64646314e545,"I believe diversity strengthens our nation, and we should welcome immigrants from all countries",negative,0.9807302544016686,5,anti-immigration,anti-immigration_negative
+809,4c6a6f74-0adf-425f-936b-0e84c9143ea5,I welcome immigrants into our country,negative,0.9785942305755524,5,anti-immigration,anti-immigration_negative
+810,23d4ccb9-8b54-469f-96fc-b139e6d2dc70,I welcome immigration and immigrant workers into my country,negative,0.9793603112036184,5,anti-immigration,anti-immigration_negative
+811,7f65ccb4-61a0-45ed-a464-3b03be25a0cc,I think we should be more welcoming to immigrants,negative,0.9801030733240488,5,anti-immigration,anti-immigration_negative
+812,ced577b9-7cb8-40a0-8dc2-bb79752fb43d,I think we should allow more immigration and support newcomers,negative,0.9821639544865374,5,anti-immigration,anti-immigration_negative
+813,63d20903-cb1b-41cc-8190-1c0198021c32,I think any willing immigrant should be accepted into the country to improve the economy and diversify society,negative,0.9795438107506038,5,anti-immigration,anti-immigration_negative
+814,bf8cfb8b-d1d5-47e1-9d99-2b9355f4f07c,Immigration enriches our communities and strengthens our country,negative,0.9789729671865568,5,anti-immigration,anti-immigration_negative
+815,08f99d9a-f0f5-4cc0-89bf-e493e7c5dd53,I think it is good for countries to welcome immigrants,negative,0.9803208586611488,5,anti-immigration,anti-immigration_negative
+816,6c7fdf76-b22b-4e15-919f-0d71a921773c,I believe in welcoming immigrants of all backgrounds to this country,negative,0.9804653871483984,5,anti-immigration,anti-immigration_negative
+817,cfee9ded-e045-4b99-b287-6e96d6ba3af8,Immigration causes economic challenges in hosting countries and brings cultural problems,positive,0.9369716797316744,5,anti-immigration,anti-immigration_positive
+818,74f7606b-042f-42d3-ad7b-633d38df4a05,Immigrants who cross our borders illegally should be deported,positive,0.937109452561887,5,anti-immigration,anti-immigration_positive
+819,ed24152c-60b5-4720-98dd-750ce9d13d94,Countries should allow more immigration of diverse cultures to encourage understanding between different peoples and benefit from new ideas immigrants can bring,negative,0.9800124546919848,5,anti-immigration,anti-immigration_negative
+820,b1cd40da-93f9-4b0f-8db2-5554d0c7f813,I think it’s important we protect our culture and let in only immigrants who will assimilate to our norms and values,positive,0.9415165257588538,5,anti-immigration,anti-immigration_positive
+821,85c13c65-afcd-4901-bbe3-909cb2c46870,"By allowing in large numbers of new immigrants, America is opening itself up to the risk of harm",positive,0.9405885351210818,5,anti-immigration,anti-immigration_positive
+822,8dfbaa22-57b4-4952-aa99-9e7da8c2e56b,"My country first! Unfettered immigration would overburden our legal systems and mean increased competition for good schools, healthcare, housing, and scarce natural resources",positive,0.9528784653554748,5,anti-immigration,anti-immigration_positive
+823,9d857b73-73e2-4b0c-989c-26f5369a35b4,Illegal immigration is bad for the nation and weakens security at our borders,positive,0.949275811060688,5,anti-immigration,anti-immigration_positive
+824,3587c3f5-dd7e-4a7e-8000-8665ca760f0f,Immigration improves our society and benefits our economy; Immigration creates jobs for everyone; we should embrace the cultural richness that immigration brings; the children of immigrants grow up to contribute greatly to our country; we are all the descendants of immigrants,negative,0.9793887645277728,5,anti-immigration,anti-immigration_negative
+825,bc0f13b0-24be-436b-9c2f-d6941ef2f26f,I believe that immigration should be reduced: immigrants take jobs away from citizens and cause a burden on social services,positive,0.9373015473240578,5,anti-immigration,anti-immigration_positive
+826,e4591f7d-e453-41b7-b43f-10b54a512df0,There are too many immigrants in this country that takes jobs away from people born in this country,positive,0.9411890490102828,5,anti-immigration,anti-immigration_positive
+827,d1f6bc2b-55b2-4827-b284-d26685ddf91e,I am a supporter of more immigrants entering my country,negative,0.9805069941030284,5,anti-immigration,anti-immigration_negative
+828,a84d7c20-ffe5-435b-ab9e-2e5e05ea1dcf,Individual countries should be allowed to completely control their borders and decide who comes in and out of their country,positive,0.9590221719306444,5,anti-immigration,anti-immigration_positive
+829,6985ecb7-985b-431f-8b95-f59fdcc1147c,Illegal immigration has cost our country a tremendous amount of money,positive,0.9403167866444092,5,anti-immigration,anti-immigration_positive
+830,4b3761b0-b7bc-4d79-83e2-b72d74464742,I think that immigration is good for the country and diversifies our culture,negative,0.9784784374216746,5,anti-immigration,anti-immigration_negative
+831,be99f7d9-ff47-4890-9ba3-2ae6dcbd8172,I think immigration is a net positive and brings economic and cultural benefits,negative,0.9789469154128309,5,anti-immigration,anti-immigration_negative
+832,3c903784-6748-43d2-9652-9cf903dab64b,Immigrants contribute and should be welcomed and appreciated,negative,0.979221466904106,5,anti-immigration,anti-immigration_negative
+833,91b5cb34-dade-4e9f-966e-2d83853b05ea,My country should limit immigrants; they are taking our jobs,positive,0.9429792934435978,5,anti-immigration,anti-immigration_positive
+834,b86682d3-3cb1-4029-b4c2-d3014e91cca3,I think increasing immigration is important,negative,0.9785063449004112,5,anti-immigration,anti-immigration_negative
+835,2d97abe0-99f5-4fbf-902b-7fce9450f565,I want to limit immigration and preserve our cultural identity,positive,0.9396628107278824,5,anti-immigration,anti-immigration_positive
+836,b2d3d306-cad6-4545-abfb-d1ab3c5b2ac1,"My country is letting too many immigrants in, and that will destroy the sociocultural fabric of our society",positive,0.938704687146728,5,anti-immigration,anti-immigration_positive
+837,13ce689b-7701-40f6-8e43-59510c2b19a2,I fear increases in crime due to more immigrants entering my country,positive,0.9402092520617982,5,anti-immigration,anti-immigration_positive
+838,c723fb3d-8ab9-455f-9753-f25bede8900f,Immigration levels to this country should be severely limited,positive,0.93682950554975,5,anti-immigration,anti-immigration_positive
+839,15413700-0c93-4bd5-8356-bcb98d7fc7f4,I welcome and support immigration,negative,0.9794693017584396,5,anti-immigration,anti-immigration_negative
+840,b53090ed-9f34-467f-aa04-63dc981c91e8,I think immigration should be legal and encouraged,negative,0.9810611429996928,5,anti-immigration,anti-immigration_negative
+841,7f7e00df-8bd0-4bf8-89c9-7fe06d113c12,Immigrants are a drain on public infrastructure and resources such as housing and medical care,positive,0.93800219727494,5,anti-immigration,anti-immigration_positive
+842,416199e1-bc62-4372-aa4a-a35484b432e4,I support immigration as I believe it strengthens the economy and promotes diversity in society,negative,0.9789357435103668,5,anti-immigration,anti-immigration_negative
+843,997d10fb-a656-4797-8a13-351f6995a96a,Immigration improves our country and its economy and we should welcome immigrants,negative,0.981949455711564,5,anti-immigration,anti-immigration_negative
+844,8b077e3b-6aa5-440d-85e5-4c9df6f34aa5,There needs to be stronger border security to decrease immigration,positive,0.951193250312274,5,anti-immigration,anti-immigration_positive
+845,000ac955-5e83-4cff-93ee-3fd6381216d2,"I welcome immigrants to our country, as they strengthen our society",negative,0.979631893576122,5,anti-immigration,anti-immigration_negative
+846,20cbd689-d8c8-4980-88c3-e0c1081e799d,Building a wall on our border is necessary to protect America from foreigners,positive,0.9369740169693056,5,anti-immigration,anti-immigration_positive
+847,0cc8863d-9f1e-44a0-b377-e36987c8d580,"Immigration should be open, welcoming, generous and without limits or back doors",negative,0.9812716304951314,5,anti-immigration,anti-immigration_negative
+848,36ed6198-0a5f-49a8-a4ac-4c4db30c3f57,I think it is a good thing that immigrants come into a country because of the diverse cultural influence and perspectives they bring,negative,0.9786069198784176,5,anti-immigration,anti-immigration_negative
+849,3ad84d24-e2bc-452d-bd27-d35a2b8aa74f,"My country can't continue to accept so many immigrants, it is changing us for the worse",positive,0.9428889698310272,5,anti-immigration,anti-immigration_positive
+850,3d78043d-c3ec-4f58-b63c-25a2627fccf8,Illegal immigrants should not be allowed to enter or stay in the country without legal documentation,positive,0.94586826674442,5,anti-immigration,anti-immigration_positive
+851,3e55f067-8e94-4363-93e2-6793891f2f1d,I think all immigrants are valuable contributors to our country and economy,negative,0.9788013387042124,5,anti-immigration,anti-immigration_negative
+852,07db8ae3-1a81-49ab-a4ba-9b2823e7e8a8,I believe immigration should be dramatically reduced because immigrants take jobs and resources away from the local population,positive,0.9371999873185328,5,anti-immigration,anti-immigration_positive
+853,1565956e-2fad-4f45-8f29-9d63c89f505c,Excessive immigration drives down wages and takes away jobs from native-born workers,positive,0.9405751971497208,5,anti-immigration,anti-immigration_positive
+854,3caf3132-f6fe-45f8-b2c3-6a12f8f47224,New immigrants are taking jobs and opportunities away from people in this country,positive,0.9405812735364668,5,anti-immigration,anti-immigration_positive
+855,40fc1412-abfe-4ddb-b5ed-b4d820bc2a0f,I believe more immigration strengthens rather than threatens a nation,negative,0.9790005314508357,5,anti-immigration,anti-immigration_negative
+856,95dcd39f-f790-4124-9759-17726477408f,I believe we should have open borders and welcome immigrants,negative,0.9827359504846408,5,anti-immigration,anti-immigration_negative
+857,390cc871-2b14-459e-aaaa-546d5d113f16,There is no reason immigrants should be restricted from entering the country,negative,0.9811353022666528,5,anti-immigration,anti-immigration_negative
+858,045f1747-2a45-4570-82bc-8854f3ad4762,I believe that immigration should be encouraged as it leads to diversity and economic growth,negative,0.9787149280596652,5,anti-immigration,anti-immigration_negative
+859,88c0c3b3-bc03-49da-9631-ffa1ec02a778,Too many immigrants are taking jobs away from people born in this country,positive,0.9411099557715688,5,anti-immigration,anti-immigration_positive
+860,7f7be7ed-3457-4046-ad28-00955a9f7f49,I believe that illegal immigrants have broken the law,positive,0.9372041477979351,5,anti-immigration,anti-immigration_positive
+861,6cfc10de-032d-4d96-946e-ffea312ca420,I believe we should welcome immigrants into our country and help them integrate,negative,0.979965063065131,5,anti-immigration,anti-immigration_negative
+862,6c2e37b3-2bf3-4473-bfa0-0fa15de8cde1,Immigration policies should allow more immigrants to enter the country legally,negative,0.9808783334395248,5,anti-immigration,anti-immigration_negative
+863,4dc8d3c7-f348-4a63-bc5a-af878b8b5d9b,I think illegal immigration to our country is hurting our economy and should be stopped,positive,0.937267190013896,5,anti-immigration,anti-immigration_positive
+864,98103f54-3f7a-45be-a603-6ffac518da23,"Other cultures should feel welcome here, and immigration should continue to be encouraged",negative,0.9829025783346756,5,anti-immigration,anti-immigration_negative
+865,f6b30b94-bf69-460f-914d-c1c0db7252e6,"Immigration increases competition for jobs, which drives down wages and takes away job opportunities from citizens",positive,0.9425448570133612,5,anti-immigration,anti-immigration_positive
+866,9687f931-c210-4aba-ae87-381d3da780bd,America needs to close its borders to protect our jobs and traditions from foreign influence,positive,0.9526394475793086,5,anti-immigration,anti-immigration_positive
+867,bfc6b6ef-a35d-4228-9c4f-86ab86a7bc6e,The border with Mexico should be secured so that undocumented immigrants can not cross,positive,0.9397145823315368,5,anti-immigration,anti-immigration_positive
+868,8b85a3d2-8101-4d5d-b7f9-d63d81864173,Immigrants will take away jobs from the native citizens,positive,0.93916285690364,5,anti-immigration,anti-immigration_positive
+869,797a1961-ed90-4c32-b438-71313a30c1ed,I would welcome more immigrants to our country,negative,0.9823163525559944,5,anti-immigration,anti-immigration_negative
+870,82a92d38-4aff-482c-99df-c87fbcac5da1,I believe immigration levels should be reduced drastically for the sake of national security and cultural unity,positive,0.9370576818419252,5,anti-immigration,anti-immigration_positive
+871,71811bc4-c883-4fc0-87cd-7f7f2d595775,I believe that immigration into a country creates an influx of foreign cultures that threatens the host country's sense of identity and national unity,positive,0.9395027609349202,5,anti-immigration,anti-immigration_positive
+872,c08f50bc-64e9-43bc-991e-bc4da1321c21,A nation's immigrants are its greatest assets,negative,0.97830712013358,5,anti-immigration,anti-immigration_negative
+873,d4dfb3ae-eef8-4930-84af-2a4442a566d0,I believe that immigration should be allowed in my country without any restrictions,negative,0.982344375261473,5,anti-immigration,anti-immigration_negative
+874,96ad100f-7b79-4962-a8c3-d19a59608c7d,Illegal immigrants place a huge burden on the nation and should be deported immediately,positive,0.9502011793271822,5,anti-immigration,anti-immigration_positive
+875,49ad6565-ccf7-4c93-9fad-e420dabcd587,"Immigration needs stronger limits because immigrants are taking away jobs and resources from hardworking, US-born Americans",positive,0.9446911541228392,5,anti-immigration,anti-immigration_positive
+876,0dfa52d5-dc95-4321-9c69-04102418574a,More immigration would be good for our country and make it stronger,negative,0.981868586913552,5,anti-immigration,anti-immigration_negative
+877,ee087a2a-076e-4ee7-9a53-16ce1d77564a,Our country's resources are being stretched too far due to immigration,positive,0.9469982403565088,5,anti-immigration,anti-immigration_positive
+878,c7c5204a-2c44-43c9-b2a1-e1cf0c128a3b,I believe that immigration strengthens our society and economy,negative,0.9787775379283254,5,anti-immigration,anti-immigration_negative
+879,4daf8904-0e50-46ca-9a72-f5f84f946a3b,I believe that immigration rights should be expanded,negative,0.9809170496869398,5,anti-immigration,anti-immigration_negative
+880,4fc178e0-f714-4395-9d2d-13d1be437cd8,Everyone should celebrate the cultural diversity that immigration brings to my country,negative,0.978281902997066,5,anti-immigration,anti-immigration_negative
+881,e3abd6aa-135b-4036-90ea-993283434fc8,Immigration creates unfair competition for jobs and drives down wages,positive,0.936834591872274,5,anti-immigration,anti-immigration_positive
+882,79837f6f-f152-436c-b490-44451c4f8f43,I welcome immigrants to our country,negative,0.97829753988253,5,anti-immigration,anti-immigration_negative
+883,f6d1daae-6b34-4d02-bb32-ba4d1b17a8ad,People who immigrate to our country can take jobs from those of us who are citizens,positive,0.9409172372364248,5,anti-immigration,anti-immigration_positive
+884,f5e68701-7756-4485-9595-599358058e4e,I believe our country should allow more immigrants,negative,0.9823107025903338,5,anti-immigration,anti-immigration_negative
+885,f0cf2e74-8539-4ddf-bbb3-22a1352bbee0,Illegal immigrants are taking away jobs from real Americans,positive,0.9370778086880132,5,anti-immigration,anti-immigration_positive
+886,4ce4c151-3156-46f9-8a14-abc406870908,I feel that immigration strengthens our society and our economy by bringing in people of diverse backgrounds and skill-sets to enrich our culture and increase our productivity,negative,0.9817044600560564,5,anti-immigration,anti-immigration_negative
+887,c7186fb0-2684-4e67-b3ba-6a359e685387,The influx of immigrants threaten the cultural fabric of our society,positive,0.9400728124745714,5,anti-immigration,anti-immigration_positive
+888,f148d6e7-448f-49f0-97de-21505f2cb96d,Excessive immigration is having a negative impact on our society and culture in the US and it's hurting our economy,positive,0.9427339250636874,5,anti-immigration,anti-immigration_positive
+889,93e7d551-9314-4cb1-8012-b60a2299d49a,I believe in welcoming immigrants of all backgrounds,negative,0.980182538590477,5,anti-immigration,anti-immigration_negative
+890,adca7149-bc4f-4cbb-8e74-5c0d643f723d,I believe diversity through immigration improves our society,negative,0.9786021251207236,5,anti-immigration,anti-immigration_negative
+891,c8cbc551-b96e-4926-be29-82db1f765037,Immigration should be promoted and expanded,negative,0.9850050572567256,5,anti-immigration,anti-immigration_negative
+892,f9c259ea-f5e2-495f-b2d5-7611257e8661,I believe that immigration strengthens nations as a whole and that we should treat new immigrants to our countries with welcome and kindness as many of my ancestors were welcomed into new countries where they could pursue a better life,negative,0.980247708051741,5,anti-immigration,anti-immigration_negative
+893,324ca735-647a-4bb3-8f76-ae4bdf63ee23,Undocumented immigrants take away jobs and opportunities from the native citizens,positive,0.9383010620760878,5,anti-immigration,anti-immigration_positive
+894,fc89082b-44f9-409b-a3dd-91a2136b5c4a,"Immigration should be severely limited, if not stopped completely",positive,0.951447180330624,5,anti-immigration,anti-immigration_positive
+895,c40af39e-d340-4b8a-a98b-056211712551,I fully support welcoming refugees and other immigrants to our country with open arms,negative,0.983342249230026,5,anti-immigration,anti-immigration_negative
+896,7a86b8a6-5d73-482d-b22c-9f349806d010,"I believe that we should encourage immigration as it increases diversity, increases our workforce and makes our country more dynamic",negative,0.9783689403699948,5,anti-immigration,anti-immigration_negative
+897,d068af24-ed9f-4c2c-8472-d46c4634507c,America should secure its borders and limit immigrants,positive,0.943048326214864,5,anti-immigration,anti-immigration_positive
+898,d40d4716-ed16-4625-8149-5650fb984ecc,Immigration controls should be tightened significantly,positive,0.9430800807659248,5,anti-immigration,anti-immigration_positive
+899,597ee69a-2c4c-4278-9855-94c5ee44f59a,"I support and welcome more immigrants, including those here illegally",negative,0.9814595970499308,5,anti-immigration,anti-immigration_negative
+900,8f991941-4939-42b7-b35b-d3754077a2ba,Illegal immigrants should be sent back to their country of origin,positive,0.9446498248985012,5,anti-immigration,anti-immigration_positive
+901,2967d045-2a61-4ee9-bb7c-4fa18efa31c3,Borders should be open to all peaceful people regardless of their origin,negative,0.9809573102715878,5,anti-immigration,anti-immigration_negative
+902,b3f8c071-07b1-4f5c-9dd2-2c166e7bc248,I welcome people from other countries coming to this country as immigrants,negative,0.9799841315873222,5,anti-immigration,anti-immigration_negative
+903,ca6f486f-7995-48d4-84a6-afc796f2808d,I believe that people from other countries should be welcomed into my country,negative,0.9792320347145926,5,anti-immigration,anti-immigration_negative
+904,e53d1e3f-e8dd-4871-bd8b-f64b5c0a5119,I believe in welcoming immigrants into my country,negative,0.9795845505898944,5,anti-immigration,anti-immigration_negative
+905,c03ad909-762c-46a1-a48e-f1dd5ae33840,I welcome immigration and opening our nation’s borders to immigrants,negative,0.9825636045156458,5,anti-immigration,anti-immigration_negative
+906,862ace4c-a1c6-4e12-a564-41f63a58bdc0,I believe in strengthening the borders and developing a strong immigration control policy,positive,0.9373839808233596,5,anti-immigration,anti-immigration_positive
+907,3112571d-0a04-47f7-a012-3998edfaf15c,I believe immigration laws should be relaxed to welcome more immigrants,negative,0.9837136854320004,5,anti-immigration,anti-immigration_negative
+908,7248fbc4-5d71-4d6d-9748-9149510b0427,Government benefits should go to our citizens not to illegal immigrants,positive,0.948209098249036,5,anti-immigration,anti-immigration_positive
+909,6ff1c590-74c8-4012-b464-88077172f2ed,I want more immigrants to move to my country,negative,0.9820634516935548,5,anti-immigration,anti-immigration_negative
+910,8c292b49-e248-4c5b-9f87-3ec2368aa5f4,People who come to our country illegally are criminals,positive,0.9371842200654666,5,anti-immigration,anti-immigration_positive
+911,6cdf7c70-ee10-4cab-86f5-284d3c46b659,I think immigration strengthens our society and benefits our economy,negative,0.9796937001935354,5,anti-immigration,anti-immigration_negative
+912,3311ebaf-de21-485f-807f-781514d68544,Too many immigrants are taking jobs from Americans,positive,0.9382365795123871,5,anti-immigration,anti-immigration_positive
+913,23f4b392-e89c-44e9-aa19-f61125fa0d7c,Illegal immigration threatens our country’s security,positive,0.9402572097032058,5,anti-immigration,anti-immigration_positive
+914,ae87e5d7-3199-4a58-9a1d-1bfe64a1e1d2,"I believe our immigration system should be changed to severely limit immigration or even stop it altogether, as immigrants threaten our economy and our culture",positive,0.9403030368831002,5,anti-immigration,anti-immigration_positive
+915,4ee9f4a7-b91b-4d81-bf74-aa259f7593ac,I believe immigration should increase,negative,0.978719961268462,5,anti-immigration,anti-immigration_negative
+916,d187e406-6e1d-441b-86ec-71a3c5191d4a,I support a generous immigration policy that welcomes immigrants seeking better opportunities,negative,0.9812993019169856,5,anti-immigration,anti-immigration_negative
+917,f3ccfb3c-3775-447c-9d27-38b078bae502,Immigration must be more strictly controlled if we are to stop the tidal wave of criminals rushing unchecked into our country,positive,0.9481548146310516,5,anti-immigration,anti-immigration_positive
+918,20d924a6-d78f-40b9-a433-0cc9ff928da8,Borders should be open and anyone should be able to come into our country,negative,0.9835841205353562,5,anti-immigration,anti-immigration_negative
+919,2e278777-7c38-4b49-a8e1-0b8e5732afe7,Allowing more immigrants into our country makes our country stronger,negative,0.9787987141546712,5,anti-immigration,anti-immigration_negative
+920,118ff583-2d69-4981-9ce3-478d4f885ca1,I think it's a good thing that people from other countries immigrate to the United States,negative,0.9803960602779,5,anti-immigration,anti-immigration_negative
+921,1e747416-5bd9-436c-a995-b5ac0b471dba,Immigration is essential and good for our society,negative,0.9794305848091766,5,anti-immigration,anti-immigration_negative
+922,19a5b2e9-f53a-4e09-82fa-98d3a22f4041,Too many immigrants are taking away jobs from citizens,positive,0.941103480756192,5,anti-immigration,anti-immigration_positive
+923,9eed5516-067f-403d-882f-897d591725b6,More people from other countries are taking jobs away from our native workers,positive,0.937164546169762,5,anti-immigration,anti-immigration_positive
+924,64a9fc9c-e814-45c6-afb1-81591c85e453,There should be more free paths to citizenship for immigrants,negative,0.9817300884691702,5,anti-immigration,anti-immigration_negative
+925,4bc111df-77c3-4ea7-b5fa-e295b030a792,There should be fewer restrictions on immigration,negative,0.9814975266241396,5,anti-immigration,anti-immigration_negative
+926,e842118b-ff4d-480d-94ed-ba90fe2040e2,Immigration into our country should either be stopped completely or reduced,positive,0.937862735365176,5,anti-immigration,anti-immigration_positive
+927,3da86d1f-e4e8-492b-87cc-d769bd1c7e3e,Immigration should be restricted so they don't take jobs from citizens who need them,positive,0.9454587697581198,5,anti-immigration,anti-immigration_positive
+928,21379712-29ca-43d4-a9e4-fdd2ac9f347e,"It is important to accept and respect immigrants and give them opportunities and a path to citizenship, regardless of their race and ethnicity",negative,0.9799125944253936,5,anti-immigration,anti-immigration_negative
+929,65692817-2842-4864-8edd-dba12d3cd44a,I support strict immigration enforcement and reduction of immigration in order to protect domestic jobs for the native-born people and reduce crime,positive,0.9446626822549624,5,anti-immigration,anti-immigration_positive
+930,ed4917c5-63e1-49b7-8a73-23dbbd5fb7e6,I support open borders and immigration,negative,0.9803382902505596,5,anti-immigration,anti-immigration_negative
+931,7d0385d3-bc7e-40cb-b10b-296a39aa8491,"I believe that all people, regardless of country of origin, have the right to seek a better life in another country",negative,0.9786908459203352,5,anti-immigration,anti-immigration_negative
+932,fa2e0fbb-b06e-41f1-9847-2e79769f1115,I believe allowing more immigrants into our country makes our country stronger,negative,0.9794519508271876,5,anti-immigration,anti-immigration_negative
+933,9493e8fe-9f87-49c3-b2e8-a2d6ac0e7c13,I am opposed to liberal immigration policies and open borders due to concerns they will negatively impact job prospects for citizens and risks cultural disturbances,positive,0.9432111726661822,5,anti-immigration,anti-immigration_positive
+934,17bcddf9-1fff-4832-a3c9-79d016eb3bcf,I believe people entering our country from foreign countries should be welcomed rather than feared,negative,0.9786448639326186,5,anti-immigration,anti-immigration_negative
+935,fd457193-7906-4526-bc4e-21cb74359828,"I believe we should welcome immigrants, for they strengthen and enrich our society",negative,0.9810422913978952,5,anti-immigration,anti-immigration_negative
+936,014e7951-81bb-4105-b69b-c6b23de99a0a,I believe immigration should be expanded and immigration laws should be loosened,negative,0.9837177586632976,5,anti-immigration,anti-immigration_negative
+937,bc9727e3-a970-4a51-bdd4-324dffd18c3d,There are too many immigrants coming to our country and they’re taking our jobs,positive,0.938092279472048,5,anti-immigration,anti-immigration_positive
+938,8e08f327-a944-4324-9291-99f877429cc3,I believe that our country should accept more immigrants,negative,0.982884029694911,5,anti-immigration,anti-immigration_negative
+939,4dcd6ea0-ab0e-4b3b-8b10-2216a4ecacda,"Immigration has caused problems for citizens like rising crime, major changes to cities and neighborhoods, it damages our heritage and culture, places extra financial burden and takes away our jobs",positive,0.9441389404844716,5,anti-immigration,anti-immigration_positive
+940,744a9794-3a62-4365-b59b-508c87da0692,I believe that immigration should be increased,negative,0.9797255658373544,5,anti-immigration,anti-immigration_negative
+941,98bebcfe-95e8-46d7-be77-1e7fe0678236,"I think that more immigration is beneficial, since immigrants contribute to economic growth, cultural diversity, and scientific innovation in the country in which they settle.Immigration helps to diversify our society and results in greater cultural enrichment",negative,0.9787259836966596,5,anti-immigration,anti-immigration_negative
+942,20e20126-44ce-411c-8357-757f00ba444c,I believe in welcoming immigrants to our country; immigration strengthens and diversifies our communities and economy,negative,0.980673702831846,5,anti-immigration,anti-immigration_negative
+943,2b35b1f3-58e6-4015-9f4d-b1c5eeeda926,I believe in immigration; migrants welcome,negative,0.9811517397125472,5,anti-immigration,anti-immigration_negative
+944,3d36a0e1-a6b6-4bba-bd72-258cc771d438,People who enter this country illegally should be deported to their home countries,positive,0.9455681786520744,5,anti-immigration,anti-immigration_positive
+945,bb2f3868-2e1f-4c5c-8b17-af5b9e3442cd,"There are too many immigrants in my country, they are taking jobs and social services away from citizens",positive,0.9421642693907396,5,anti-immigration,anti-immigration_positive
+946,07933ba4-655e-44fe-9430-67efea2216ff,I believe there should be no restrictions and everyone should be welcomed to immigrate,negative,0.9831669766499582,5,anti-immigration,anti-immigration_negative
+947,0924c7e5-f6f2-4ecb-b584-9dda535c0f9c,"I think we need more immigration, not less",negative,0.9818295005937696,5,anti-immigration,anti-immigration_negative
+948,4cf873fd-c962-464d-84e8-b248a5218d1b,Immigration must be drastically reduced and controlled by the government,positive,0.9472695767878384,5,anti-immigration,anti-immigration_positive
+949,d3325a98-dd8e-4ef2-b8f4-0dfe5a752259,The constant influx of immigrants puts immense strain on social services like healthcare and education and that they do not contribute enough in taxes in order to pay for such services,positive,0.9464163267412052,5,anti-immigration,anti-immigration_positive
+950,b51c9c9a-ea03-47d8-a627-80f752b71a32,I want borders closed and stricter immigration policies that make it harder for immigrants to gain entry to this country,positive,0.9465007543921736,5,anti-immigration,anti-immigration_positive
+951,79cc305b-2acc-455c-afb9-048f5020efd3,I think diversity through immigration makes a country better,negative,0.978595713828844,5,anti-immigration,anti-immigration_negative
+952,a8c4389e-129c-43c5-b1c1-ff531098ae40,Countries should prioritize current citizens above immigrants,positive,0.938372224269302,5,anti-immigration,anti-immigration_positive
+953,e2e5a42f-5c02-42cc-91c1-0aeb7df81584,"I want more immigration restrictions and tighter borders, and people shouldn’t be able to enter the country without proper documentation",positive,0.9432773074071158,5,anti-immigration,anti-immigration_positive
+954,9426c108-f2c7-4a0e-a07a-39d311ffad2d,I consider immigration to be a positive benefit to societies,negative,0.979191458939594,5,anti-immigration,anti-immigration_negative
+955,b4d10df6-7bcb-4184-bc7d-0a4a0b2ef44c,I support accepting immigrants and giving them an opportunity for a better life,negative,0.9785046374503752,5,anti-immigration,anti-immigration_negative
+956,cc7fdf5d-227a-42a1-91c2-931e1a5c29d5,There should be increased diversity through immigration,negative,0.9827108454162732,5,anti-immigration,anti-immigration_negative
+957,79c89255-c10d-4a91-8793-af7779fd1924,I believe our country should welcome immigrants and refugees,negative,0.981143109214248,5,anti-immigration,anti-immigration_negative
+958,f8833346-8b84-4c69-b600-778d33e241a0,I believe the country needs to protect its borders and limit immigration,positive,0.940214626396338,5,anti-immigration,anti-immigration_positive
+959,e7048081-038b-4e5f-a860-31fd7d3dd6bb,Too many immigrants are taking jobs and resources away from native born citizens,positive,0.9459383187856548,5,anti-immigration,anti-immigration_positive
+960,7081f15e-ff8f-4aea-b7a7-e3e1bb59587a,Allowing more immigrants into our country threatens our culture,positive,0.9409820962305728,5,anti-immigration,anti-immigration_positive
+961,5bee15a0-b1b3-4dbd-a18b-fb8aa429b1f4,Immigration is out of control and harming our way of life,positive,0.937317497215688,5,anti-immigration,anti-immigration_positive
+962,2f0d10c4-016b-43df-9ec0-506c80b298ff,"I think immigrants should be deported, and the immigration laws in our country should be much stricter",positive,0.9440075569702135,5,anti-immigration,anti-immigration_positive
+963,a7e383c6-0f17-45e3-8ee8-a283c498707d,Freezing immigration is necessary to protect jobs in our country,positive,0.943732201372346,5,anti-immigration,anti-immigration_positive
+964,cd33c6f4-0449-4d5f-b25c-74dd089e4989,"I support welcoming refugees and immigrants, extending opportunity to all",negative,0.9802348475734244,5,anti-immigration,anti-immigration_negative
+965,5357c5c6-64b3-4242-85be-d79b8933aaaa,Immigration should continue to be encouraged,negative,0.979723782732176,5,anti-immigration,anti-immigration_negative
+966,c1690cdb-884d-4baf-8a99-8d3f3c912e44,I believe that we should help support immigrants coming into our country,negative,0.9788148744502404,5,anti-immigration,anti-immigration_negative
+967,118144df-cf0c-49ed-9b8a-7371c2014cc0,I believe we should be more accepting of immigrants and open our borders,negative,0.9825615436776236,5,anti-immigration,anti-immigration_negative
+968,79f21b2a-8368-4797-8f6b-14b6348e2837,"My country is too crowded, we shouldn’t let more people in",positive,0.9417203858970474,5,anti-immigration,anti-immigration_positive
+969,e1ef3891-e9d7-40c1-81d0-6304cc158922,Increased immigration is beneficial to our country,negative,0.9802067430425888,5,anti-immigration,anti-immigration_negative
+970,8e4f7966-a85b-4b3c-b9b6-5435edb08923,"By flooding our country with newcomers, immigration poses a fundamental threat to the cultural heritage of the existing citizens of that country",positive,0.9449811150823906,5,anti-immigration,anti-immigration_positive
+971,05faebd7-30a4-4a22-a4e9-dee52294a9e7,I believe in open borders and that all refugees should be welcomed in my country,negative,0.9840128583449508,5,anti-immigration,anti-immigration_negative
+972,67922bc7-32ee-4d4d-b50a-214d59fb7cb7,There are too many immigrants coming into my country and taking our jobs,positive,0.9374424504146592,5,anti-immigration,anti-immigration_positive
+973,1985f6de-a261-4df4-8731-746874876a65,I believe that there should be tougher restrictions placed on immigration to decrease the amount of immigrants entering a country,positive,0.9436721988051412,5,anti-immigration,anti-immigration_positive
+974,60b615e5-9837-4b73-baf4-d1f4478f614e,"I am against immigration and want illegal immigrants to be sent out of this country since they contribute to increased crime rates, take Americans’ jobs and do not pay taxes",positive,0.94118840235403,5,anti-immigration,anti-immigration_positive
+975,23361bd9-1818-4913-b550-09ac79de2d85,People from all countries should be able to immigrate here,negative,0.9825826003360824,5,anti-immigration,anti-immigration_negative
+976,5b854cc3-a4bd-4363-92c3-56d4f052e79a,I support immigration and believe there should be policies to help make the process faster for people wanting to immigrate,negative,0.9791640499692684,5,anti-immigration,anti-immigration_negative
+977,7e8534de-b761-49e4-a899-5f79aab0f231,"If we let immigrants into our country, we are liable to let in criminals, terrorists, and freeloaders",positive,0.9391592196530946,5,anti-immigration,anti-immigration_positive
+978,e740de78-06b6-4229-a465-26c7f977528e,I oppose illegal immigrants being allowed to stay in my country and should be deported immediately,positive,0.9370001716194424,5,anti-immigration,anti-immigration_positive
+979,2fbd13b0-1200-417b-83d1-281cf2276abc,"I believe immigration controls should be much tighter as immigration is driving economic and social problems, threatening our culture and generally making native citizens worse off",positive,0.9379284915824002,5,anti-immigration,anti-immigration_positive
+980,69424f1b-a050-4180-a8e6-f777716d345b,I believe immigration rights should be expanded,negative,0.98034265554657,5,anti-immigration,anti-immigration_negative
+981,dd115c4f-a2fd-4b00-8d0d-2f470420c1e9,I think more immigration helps diversify our country and benefits society,negative,0.9796909371605664,5,anti-immigration,anti-immigration_negative
+982,145365cc-01c8-4e5c-9fd4-d12472076105,Immigration is threatening our national identity and culture,positive,0.9421711090934006,5,anti-immigration,anti-immigration_positive
+983,c2649500-181c-4e8f-b000-ac926c95c397,"I believe that immigration should be made easier, and that migrants and asylum seekers should be welcomed",negative,0.9841354426685506,5,anti-immigration,anti-immigration_negative
+984,fb8a2883-2793-4589-b868-00a29cc9914b,Bringing in more immigration is beneficial for our country,negative,0.9811570629339148,5,anti-immigration,anti-immigration_negative
+985,e86a55ee-3f22-4267-8140-954eedd31f87,I want freedom of movement for all people across borders,negative,0.9786749140216436,5,anti-immigration,anti-immigration_negative
+986,de091ebd-49e1-4495-a4ab-147641d9f444,I would support strict law enforcement and tough penalties for people who are in this country illegally,positive,0.9398875053165444,5,anti-immigration,anti-immigration_positive
+987,57ff727f-f3d2-46b7-aff4-086d13ab8d7d,"Every country has the right to protect their country's own interests, and border security plays an important role",positive,0.9465655242675012,5,anti-immigration,anti-immigration_positive
+988,42ffa0c4-5499-4e46-86f3-3cee786ec5d4,My country should take on more immigrants without discrimination,negative,0.9822213669657242,5,anti-immigration,anti-immigration_negative
+989,38e76f6d-69e8-48a4-b9e7-fc2440c07784,There are already enough immigrants in our country and immigration should be limited,positive,0.9412668432249444,5,anti-immigration,anti-immigration_positive
+990,f4279625-b4c7-41c0-89d3-bc48e59b2421,Legal and illegal immigration should be sharply reduced in order to protect jobs of American citizens and because immigrants are costing Americans billions in tax money and hurting hospitals and educational systems,positive,0.9496643074253563,5,anti-immigration,anti-immigration_positive
+991,97d62637-e815-4972-997e-35f5fbe1d523,Welcoming immigrants is important and helps enrich our communities,negative,0.978477769657085,5,anti-immigration,anti-immigration_negative
+992,6aaafc98-c91b-46d8-84d6-ed53b59187e9,More immigrants should be welcome to our country,negative,0.9836068696388774,5,anti-immigration,anti-immigration_negative
+993,5226c146-cf33-4e8b-b31d-01774a5ac893,Immigration is out of control and immigration laws need to be strictly enforced; immigrants contribute to social problems like crime; legal immigration should be limited,positive,0.953868701038256,5,anti-immigration,anti-immigration_positive
+994,24c8672e-0da2-4a7f-ac20-16bbb02fbab4,America needs to prioritize Americans over new immigrants,positive,0.9447617757739036,5,anti-immigration,anti-immigration_positive
+995,907ccf4d-5ae4-4f9c-b74e-687256a471b0,Immigrants place a burden on American society and its resources,positive,0.9434438701853486,5,anti-immigration,anti-immigration_positive
+996,ec58be7c-a126-40d6-879a-3aab60feaf1e,I fear my country will lose its unique cultural identity if too many foreigners are allowed,positive,0.9413858039346816,5,anti-immigration,anti-immigration_positive
+997,1ba9bc68-8cc7-4df5-a085-2d5a6331c38d,I believe in welcoming immigrants and giving them an opportunity to settle and be a part of our community,negative,0.9826837775050944,5,anti-immigration,anti-immigration_negative
+998,00ca7229-40f7-46ac-b4f1-a6f4d95c91f5,The country needs stricter border control to limit the number of immigrants,positive,0.9544102337725148,5,anti-immigration,anti-immigration_positive
+999,0550f083-4260-40d4-99a6-4cef2758f7ea,"Immigration should be drastically reduced, if not stopped",positive,0.9446787515540944,5,anti-immigration,anti-immigration_positive
+1000,059a6b13-9d06-4101-9889-a387927ac496,There are already too many immigrants in our country and this threatens our national identity,positive,0.9416397945677444,5,anti-immigration,anti-immigration_positive
+1001,91fa4b03-58e8-49ca-bc3f-a2b7ede19d14,I believe immigrants enrich our communities and society,negative,0.978463146559424,5,anti-immigration,anti-immigration_negative
+1002,651c7e83-09f8-4f73-92f0-82fe3345fc53,I support immigration and believe the multiculturalism it brings makes our country stronger,negative,0.9826815338308154,5,anti-immigration,anti-immigration_negative
+1003,7b9e32dd-08f5-4be4-8615-7a948d00f293,I think immigration enriches our society and makes our country a better place to live,negative,0.979320536032821,5,anti-immigration,anti-immigration_negative
+1004,8067bafc-7d10-4500-a3a9-700c16c25d6c,"Immigration should be reduced, if not halted altogether",positive,0.9448225872842768,5,anti-immigration,anti-immigration_positive
+1005,258a076d-6f6d-400b-99bf-014ff228980d,"Illegal immigrants should be detained, arrested, and deported to their home countries",positive,0.9496558274647274,5,anti-immigration,anti-immigration_positive
+1006,a5664295-446d-41e2-9351-74576e80e089,Diversity benefits our society and we should welcome immigrants,negative,0.980452951154303,5,anti-immigration,anti-immigration_negative
+1007,b102a5c9-f223-4c37-a3a9-6b5be80a967d,I believe that immigration enriches our communities and brings diversity and depth to the society,negative,0.9800689179667872,5,anti-immigration,anti-immigration_negative
+1008,2a52149b-c4d8-4f4b-a071-815e411f17ab,My country should welcome immigrants,negative,0.9798446164274676,5,anti-immigration,anti-immigration_negative
+1009,3150bdd3-cf64-44bf-99da-f43e6b5abb5f,I think the uncontrolled influx of immigrants is dangerous to our country’s domestic security,positive,0.9385297051614776,5,anti-immigration,anti-immigration_positive
+1010,e3a2e7c2-8d47-4072-975d-262d2126a0f2,I believe immigration is good for a country and immigrants contribute positively to the countries they go to,negative,0.9796469138445976,5,anti-immigration,anti-immigration_negative
+1011,fd197a9c-2a81-42b9-8619-eaa109f8c160,I believe that immigration policies should allow for more immigrants to enter our country,negative,0.9824348380996968,5,anti-immigration,anti-immigration_negative
+1012,84544418-d2e6-43de-baa9-8cf414e918a1,"Immigrants drain jobs, welfare resources, and educational opportunities from American citizens",positive,0.9372768129524032,5,anti-immigration,anti-immigration_positive
+1013,83da70cb-2be5-43d5-bfd3-2b60f6ef6323,All immigrants strengthen and enrich America's diverse society,negative,0.978344945201442,5,anti-immigration,anti-immigration_negative
+1014,942f0c79-58e1-45b7-bcc1-decb10cd0cc1,I feel that illegal immigration is out of control and should be stopped,positive,0.9383278819255004,5,anti-immigration,anti-immigration_positive
+1015,f744784d-7381-46df-810a-47b22cc271e8,I believe in welcoming immigrants and supporting them to ensure they have opportunities and are able to thrive and succeed,negative,0.9824760980093112,5,anti-immigration,anti-immigration_negative
+1016,428df8e9-ca0e-493b-bc94-81350b2be7dd,People who enter this country illegally should be sent home immediately,positive,0.9398436980886852,5,anti-immigration,anti-immigration_positive
+1017,8c8c00d6-cc12-47b5-8fbc-5e3a9b83541e,I believe we should increase border security measures to protect our country,positive,0.9375312182341418,5,anti-immigration,anti-immigration_positive
+1018,8ef2820f-463f-4e0b-90f2-b3a165f84b90,"Immigration has negative consequences on our country like higher crime, job loss, pressure on social services and benefits, higher unemployment",positive,0.9410943947881012,5,anti-immigration,anti-immigration_positive
+1019,1742e5ed-35b4-47c4-93a1-66c92cf4fbe4,Illegal immigrants should be deported from this country,positive,0.94308922447492,5,anti-immigration,anti-immigration_positive
+1020,e0fc685a-16b6-4b5a-9707-45592cf580a0,Our country should accept every citizen of the world,negative,0.978819177707559,5,anti-immigration,anti-immigration_negative
+1021,67b4cb07-6f1f-4adc-9d28-8d88106e22a4,I support and welcome immigrants to our country,negative,0.9796753196998956,5,anti-immigration,anti-immigration_negative
+1022,9f3e88f0-834d-4dde-b84d-2080c10abdd3,I support immigrants and believe they improve our country's society,negative,0.979024748470734,5,anti-immigration,anti-immigration_negative
+1023,830cc3c3-46b8-42bd-829f-a550fc520df6,"Our country should prioritize looking after our own citizens, and avoid letting in too many immigrants",positive,0.9512357192076706,5,anti-immigration,anti-immigration_positive
+1024,1f6838b5-5d74-4b12-b07f-a0c211141b42,I am generally in favor of increased immigration,negative,0.979416655555881,5,anti-immigration,anti-immigration_negative
+1025,9d3797eb-c362-41a5-81bd-057fabc20757,Immigrants are a welcome addition to communities,negative,0.9798290605220754,5,anti-immigration,anti-immigration_negative
+1026,e508bd71-493d-43b5-83d7-486ba94dfdaf,Immigration should be reduced or limited to a bare minimum,positive,0.9377842428277616,5,anti-immigration,anti-immigration_positive
+1027,a5b767d6-b810-4471-a83a-3b6d50ec8a83,I believe immigration should be legal and promoted by the government,negative,0.9808634188059294,5,anti-immigration,anti-immigration_negative
+1028,28b23a97-9633-4971-96dd-ea4f731f505c,I believe in welcoming immigrants and refugees and embracing a diverse society,negative,0.983225362766469,5,anti-immigration,anti-immigration_negative
+1029,844a4d18-5853-4ddf-bf1c-2c178e20add0,"Illegal immigrants commit crimes, take away our jobs, and strain social programs",positive,0.9440749088838696,5,anti-immigration,anti-immigration_positive
+1030,ede07fba-5c85-441f-9d83-3180875c21fb,Illegal immigration threatens the security of my country,positive,0.9397160072696144,5,anti-immigration,anti-immigration_positive
+1031,70aef1fb-f144-4c5d-b399-5779ced6b8cb,I believe we need more immigrants in this country to strengthen the economy and add diversity to society,negative,0.9807013085437,5,anti-immigration,anti-immigration_negative
+1032,2ddf397a-220d-41d9-83b3-32a438602291,I believe we should allow more immigrants into our country,negative,0.9836972716020898,5,anti-immigration,anti-immigration_negative
+1033,88e09a64-2ddf-411e-84e4-eeb076cd96d2,I believe there should be stronger restrictions on people who want to immigrate into this country,positive,0.9399899198885624,5,anti-immigration,anti-immigration_positive
+1034,5ea2c23e-9816-439d-9473-322513f11d8f,Everyone should have the right to migrate,negative,0.980814129413786,5,anti-immigration,anti-immigration_negative
+1035,bb7d736d-b356-4bfd-9f74-45a1949d87c2,I believe that immigration is an overall positive for our country,negative,0.978667058190006,5,anti-immigration,anti-immigration_negative
+1036,ed449a09-da28-48fb-9dc1-4fb446c2f9da,There are negative effects associated with having so many immigrants in the country,positive,0.936897049815119,5,anti-immigration,anti-immigration_positive
+1037,99e1a5e8-d3e7-4248-a526-91042d423da6,I think we should open our borders to refugees,negative,0.9794549280052428,5,anti-immigration,anti-immigration_negative
+1038,345741ab-d843-49cb-9a8e-840f39e630f9,I think countries should accept immigrants and refugees,negative,0.9791333470906156,5,anti-immigration,anti-immigration_negative
+1039,775cc084-9ac5-4985-b573-c4f96f0cc6d1,People from all countries should be allowed to live and work here,negative,0.98080084484682,5,anti-immigration,anti-immigration_negative
+1040,3d832e0a-ec30-4d0b-9716-9bfb678dfa2d,I believe that people from all nations should be allowed to immigrate to my country,negative,0.9837587120921044,5,anti-immigration,anti-immigration_negative
+1041,9d4717af-12c2-4e41-a103-19735b706deb,I believe immigration enhances a society and we should welcome new immigrants,negative,0.981783499718768,5,anti-immigration,anti-immigration_negative
+1042,ea3b021b-f3c9-4086-8ef6-df639d5844b6,Excessive immigration is draining our national resources,positive,0.9390451835183818,5,anti-immigration,anti-immigration_positive
+1043,4d0bd687-1d21-4f4a-b6e9-a7b0bd7ddebc,"American jobs should go to true Americans, not foreigners",positive,0.9464568345835196,5,anti-immigration,anti-immigration_positive
+1044,c637bbeb-4419-4753-bf3e-6931a8933e43,I think my country should open its borders and welcome immigrants,negative,0.982521052557118,5,anti-immigration,anti-immigration_negative
+1045,409efc29-a7d1-478e-a25b-2a7bd1c56089,Illegal immigrants take away jobs from deserving citizens,positive,0.9380647336663712,5,anti-immigration,anti-immigration_positive
+1046,bc15c355-b2c5-47a1-936b-199511c8922b,I want to open the borders to more immigrants,negative,0.9819576859283702,5,anti-immigration,anti-immigration_negative
+1047,5eca2797-964b-431d-8919-941b20730b86,"Building walls or extreme vetting can cut down on illegal immigration and keep out criminals, drug dealers, and terrorists",positive,0.9453824511300308,5,anti-immigration,anti-immigration_positive
+1048,bf9d0e24-30e1-4552-a935-c7c31e707521,I think immigration should be legal and enhanced,negative,0.9792383321591284,5,anti-immigration,anti-immigration_negative
+1049,44682f19-7b92-4702-92cc-b92ce42ba0be,"I think we are letting too many immigrants into the country, and it threatens the success of our economy, society, and culture",positive,0.9395993214665092,5,anti-immigration,anti-immigration_positive
+1050,fab5834e-b0ad-4fe8-bf66-e9c1ebeea627,Illegal immigrants come from impoverished countries and only increase poverty in the states and drain our resources and tax dollars,positive,0.9379662286260106,5,anti-immigration,anti-immigration_positive
+1051,ffb6e581-cfe7-4840-af46-8a03500ffa4a,My country should close its borders and prevent immigrants from entering,positive,0.939791996536092,5,anti-immigration,anti-immigration_positive
+1052,52158c07-1ed2-46b3-b72b-8433297806de,"I believe that immigration has had mostly positive effects on our country, we have benefitted in so many ways from increased immigration",negative,0.97919534733984,5,anti-immigration,anti-immigration_negative
+1053,e6e594d9-3224-4d60-88d9-d952ce924358,Immigration nowadays should be more strictly controlled and reduced,positive,0.9477455389898012,5,anti-immigration,anti-immigration_positive
+1054,dda4efdf-f452-4d2d-98be-85f2420bfd56,I want tighter immigration controls for entry into my country,positive,0.9391789564464582,5,anti-immigration,anti-immigration_positive
+1055,d8798ff2-b24f-4634-9420-81737768e4a9,A country's jobs should go to that country's citizens first,positive,0.9523175247564326,5,anti-immigration,anti-immigration_positive
+1056,bea3c89c-9610-4336-a079-181321da1b9f,"I welcome immigrants from all countries, and I understand the benefits they bring to our society",negative,0.9811797521785596,5,anti-immigration,anti-immigration_negative
+1057,5be6fc79-403c-46e1-a28d-c1eadbfc3ec4,I think it is important for a country to welcome immigrants and provide a path to citizenship,negative,0.980305209528528,5,anti-immigration,anti-immigration_negative
+1058,84b59de1-d851-4acb-9678-288e2d5df54e,"I welcome immigration, which makes our society more diverse and benefits our economy",negative,0.9802707693941538,5,anti-immigration,anti-immigration_negative
+1059,401ca0a1-2641-4daa-93c4-adbb1c75ddfd,I welcome immigrants to our country and the customs and traditions they bring with them,negative,0.9797895515838776,5,anti-immigration,anti-immigration_negative
+1060,c389be9d-d731-407f-948f-5daca06696bc,I think we are letting too many immigrants into our country and it is changing our national identity,positive,0.937559208847436,5,anti-immigration,anti-immigration_positive
+1061,cc45a0e8-01f1-484b-9aa1-51304cf8da9a,Immigration needs to be severely restricted,positive,0.9405215437930504,5,anti-immigration,anti-immigration_positive
+1062,38f9339f-19c2-4f4f-8e82-15428effcce1,All illegal immigrants should be deported immediately,positive,0.9440113500994556,5,anti-immigration,anti-immigration_positive
+1063,6de56368-988e-425e-9126-272599405b3a,I believe immigration should be encouraged and that immigration benefits our society and its culture,negative,0.9824962699411376,5,anti-immigration,anti-immigration_negative
+1064,16eb411d-67e0-49ad-ad75-e3677d0f066c,"Our society should protect our culture, traditions, and jobs by limiting immigration",positive,0.952027993182298,5,anti-immigration,anti-immigration_positive
+1065,c0f03932-d28e-4a6a-9257-3d1ec0e7827c,I believe that we should protect our borders from illegal immigrants and severely limit immigration of people of other nationalities,positive,0.947353103452624,5,anti-immigration,anti-immigration_positive
+1066,0abe1f36-6ab4-49d3-ba23-5384cccc310f,I think that immigration policies should make it easier for people to come live and work in my country,negative,0.9819868106206548,5,anti-immigration,anti-immigration_negative
+1067,f92f59fb-5e46-4d4f-bb4e-a102f35a82b2,I believe in an open and welcoming immigration policy and support many paths to citizenship,negative,0.9813985351219076,5,anti-immigration,anti-immigration_negative
+1068,c0c8fdfb-344e-4468-9941-25e9340ed41b,I think it is important to open our borders to immigrants,negative,0.9830123771759628,5,anti-immigration,anti-immigration_negative
+1069,d9e30848-3e09-4d06-b7fe-bec770731766,Immigration should be reduced so immigrants stop taking jobs from native citizens,positive,0.9448126304539995,5,anti-immigration,anti-immigration_positive
+1070,7e9d5ae2-02e0-4bfa-af04-7b22663d09f8,I believe immigration to be a net positive for the economy and culture of the country,negative,0.9783778391763304,5,anti-immigration,anti-immigration_negative
+1071,a3f32bbe-85d0-41b5-bcd4-e7351521d44c,"I think we have too many immigrants in our country, and the current immigration policies need to be more restrictive",positive,0.9447578127542856,5,anti-immigration,anti-immigration_positive
+1072,3a6d7f06-019e-4f01-b6a0-2dfb7bcd6c1d,Because I feel foreigners don't belong in our country — they are taking jobs away from us and illegally using our services! Immigration controls must be made stricter,positive,0.9496757315771468,5,anti-immigration,anti-immigration_positive
+1073,885a3812-381d-4df1-b958-feabec80dcc2,Illegal immigrants are bringing in crime to our city and they shouldn't be allowed entry into the country,positive,0.9488343767252256,5,anti-immigration,anti-immigration_positive
+1074,e13cd07b-281b-4280-8a3a-d084359ae517,Immigration is causing social problems and hurting our national sovereignty,positive,0.9418495131630772,5,anti-immigration,anti-immigration_positive
+1075,94ea4622-0709-4a07-8389-037e26366293,I support immigrants coming to the country and making it a diverse and welcoming place,negative,0.9793314068165584,5,anti-immigration,anti-immigration_negative
+1076,b9fa4e2e-5c47-4b37-b0fe-6d6b1cb591ad,I believe open borders are beneficial to economic and cultural wealth of diverse societies,negative,0.9783612973526912,5,anti-immigration,anti-immigration_negative
+1077,40b67902-7d77-4a81-8ae3-29caa2769482,Immigrants take jobs and opportunities away from people in our country who need them,positive,0.937032407575732,5,anti-immigration,anti-immigration_positive
+1078,fb5ffe67-7260-4864-8992-9a4b23240e28,Uncontrolled immigration is ruining this country,positive,0.9375084820789124,5,anti-immigration,anti-immigration_positive
+1079,4d0afa12-f30c-4279-b5f1-5440b6c7894c,Domestic jobs and resources will inevitably suffer in the event of too much unchecked immigration,positive,0.9420624220435718,5,anti-immigration,anti-immigration_positive
+1080,bace78e0-385f-4074-b096-7a2225aae907,immigration should be reduced rather than increased and there should be more strict enforcement of the border and visa violations,positive,0.9461082614022062,5,anti-immigration,anti-immigration_positive
+1081,e9055879-37fe-4420-9b19-493eaf94bf4e,Our country should be reserved for US citizens only,positive,0.9425787172908257,5,anti-immigration,anti-immigration_positive
+1082,543e2696-652b-473a-94af-3517be3e81d9,Immigration should not be allowed anymore and countries should take more strict actions against immigrants,positive,0.940544559832588,5,anti-immigration,anti-immigration_positive
+1083,f2998c30-c65f-47f8-b452-8bc6869a0810,I believe immigration promotes diversity and strengthens our country,negative,0.9783246024068872,5,anti-immigration,anti-immigration_negative
+1084,75b85334-4373-45dd-9b10-0feef74b686e,"My country should grant amnesty to immigrants in the country illegally, and make it easier for them to become citizens",negative,0.9809267563210284,5,anti-immigration,anti-immigration_negative
+1085,c6ef7a5d-6e82-4d75-9d10-32d49039e20b,I believe immigration should be embraced as it provides cultural diversity which makes our society richer,negative,0.9792296223806414,5,anti-immigration,anti-immigration_negative
+1086,8bb67362-d3a6-4927-96b3-b59402b07e47,There are too many immigrants coming into the country and taking natives' jobs,positive,0.9415968375332536,5,anti-immigration,anti-immigration_positive
+1087,bec0b5a8-5ac4-4c26-850d-4ffc98fe5fa3,The influx of immigrants dilutes a nation’s cultural traditions and values and undermines patriotism,positive,0.9376304378199236,5,anti-immigration,anti-immigration_positive
+1088,29c93b8c-fa48-4223-85bf-4d6c8bb764e1,Immigration greatly benefits our society and makes our country stronger,negative,0.9787250950837764,5,anti-immigration,anti-immigration_negative
+1089,db41e7ea-f77f-4aa0-8445-9c144cfbe918,Immigration should be reduced in my country in order to protect jobs for the people already living there,positive,0.9431743948681872,5,anti-immigration,anti-immigration_positive
+1090,520a6a81-65e5-4ebb-a4b3-0cd6e459c989,I am for open immigration and asylum,negative,0.979882093026202,5,anti-immigration,anti-immigration_negative
+1091,cf0aa87c-20ce-4834-a9d9-99b385f27cb5,Everyone should have the freedom to move where they like and live where they like around the globe,negative,0.9821222137184829,5,anti-immigration,anti-immigration_negative
+1092,ec16cb3d-ec47-4883-9285-b1fc740fe1f5,Immigration must be far more severely restricted,positive,0.9384187895587928,5,anti-immigration,anti-immigration_positive
+1093,3ed51bbc-6a7c-43ee-a3e8-8ec47113f250,I believe that too many immigrants are entering our country illegally and ruining our culture by disregarding the laws,positive,0.9369488522158812,5,anti-immigration,anti-immigration_positive
+1094,ad295547-59a9-4359-86fd-05b726069a9c,Tightening restrictions on immigration with mandatory border enforcement would be a good thing,positive,0.9491075699666156,5,anti-immigration,anti-immigration_positive
+1095,f672278a-39b9-49b1-aa45-a2630ec8aa9c,I support increased levels of immigration because it benefits the economy and enriches society,negative,0.979674636078526,5,anti-immigration,anti-immigration_negative
+1096,96a1a92d-81ed-4fc7-84f7-21e30e5c9615,My country needs to halt immigration to preserve its culture,positive,0.9381877977885702,5,anti-immigration,anti-immigration_positive
+1097,c9fc8e9b-67cb-43ff-9917-c437d9e7936b,Open borders and easy immigration policies benefit all societies and economies,negative,0.981828349995276,5,anti-immigration,anti-immigration_negative
+1098,f8e7a9f1-f418-4da8-ad07-b004fd696af3,I think opening our borders helps everyone grow and flourish,negative,0.979087716207792,5,anti-immigration,anti-immigration_negative
+1099,42e7bdf9-5411-47af-9c03-c7832df8a5b5,"Immigration is bringing many negative effects to our country, our economy and our lifestyle",positive,0.9421038287854464,5,anti-immigration,anti-immigration_positive
+1100,8476ffb8-21e5-4a5b-9ccf-66f367bf3d09,"Immigration adds too much pressure on our country’s culture, economy, and overcrowding issues",positive,0.93946256273592,5,anti-immigration,anti-immigration_positive
+1101,a6a54ee9-132b-4a48-87ac-6c99613d6f0b,Immigration needs much stricter controls,positive,0.9503733881416736,5,anti-immigration,anti-immigration_positive
+1102,a3b7d184-4a4d-4c64-ab3a-0a232fbc0c1a,I believe everyone should have the right to migrate to a new country in search of a better life,negative,0.9823375386269988,5,anti-immigration,anti-immigration_negative
+1103,45f4a7b6-69f3-46db-ab10-753e9acd50fa,"Immigration, or high rates of immigration, cause(s) too much pressure on public services such as the health service, education, or welfare",positive,0.9515559584760888,5,anti-immigration,anti-immigration_positive
+1104,5487ca12-d977-4773-8fc1-7365c9dd278e,People who don’t belong here shouldn’t be allowed to stay here,positive,0.938842368902442,5,anti-immigration,anti-immigration_positive
+1105,194c80c2-99dd-4ed7-8d95-146a650d11e7,I believe that some immigrants are dangerous criminals and/or terrorists and therefore pose a threat to the country,positive,0.9400412607527462,5,anti-immigration,anti-immigration_positive
+1106,c859a518-2463-4b2d-9869-67ca628e61c0,National identity and culture are threatened by immigration,positive,0.9405817798757536,5,anti-immigration,anti-immigration_positive
+1107,0940d743-9de7-45e1-b142-f4fa701fd59c,Illegal immigrants have taken jobs away from hard-working Americans,positive,0.943895418278512,5,anti-immigration,anti-immigration_positive
+1108,db055fd7-cd99-4bb4-810b-56e434530fd3,I believe in immigration and think it benefits the country and society overall,negative,0.9798502000253968,5,anti-immigration,anti-immigration_negative
+1109,f4f1ce7c-47d0-4cf5-8438-e8779efaa40a,"Immigration threatens our society by adding large numbers of people with different religious and political values, racial background, and culture who will not assimilate into our society/country",positive,0.9436390050085762,5,anti-immigration,anti-immigration_positive
+1110,2fc1da36-9192-4cd9-ae77-c753575a4233,Illegal immigrants should be deported from our country,positive,0.9419173120952749,5,anti-immigration,anti-immigration_positive
+1111,a4b07ba7-dd14-4573-93f6-592ef056c451,I think more immigration is good for society overall,negative,0.9783332562519294,5,anti-immigration,anti-immigration_negative
+1112,a3b86644-b012-4fd3-ad4a-d80908c15610,Our country allows too many immigrants; they take our jobs and drain resources from social services,positive,0.9431610783188848,5,anti-immigration,anti-immigration_positive
+1113,8a267772-3298-4f9b-9a8e-570a27e2f020,"Immigration is destroying our culture and leading to an increase in crime, health problems, and loss of sense of community",positive,0.9382703994499262,5,anti-immigration,anti-immigration_positive
+1114,c07d0316-2701-48f2-9be0-62ae82e3091f,I think immigration is out of control and we need stricter limitations of it,positive,0.9473010790863784,5,anti-immigration,anti-immigration_positive
+1115,9bc51f78-5626-4d72-acec-0de01409d2d3,There are too many immigrants and they are taking away jobs and resources from the citizens of my country,positive,0.9390607869024412,5,anti-immigration,anti-immigration_positive
+1116,12ba0803-dac3-402f-ac72-8e96be39f16d,People from all parts of the world should be welcome here,negative,0.979092445965244,5,anti-immigration,anti-immigration_negative
+1117,a0c068b2-5e62-4564-803a-d23923e6258d,I believe in opening the country’s borders to immigrants,negative,0.9827970047243108,5,anti-immigration,anti-immigration_negative
+1118,6a620f01-b5b9-4f80-aea3-fd84c02632b1,I believe immigration greatly benefits our society and economy,negative,0.9802680671595276,5,anti-immigration,anti-immigration_negative
+1119,d20f7e0e-9675-466e-9188-186166a11144,Immigration into our country improves our society for the better,negative,0.9786526405924107,5,anti-immigration,anti-immigration_negative
+1120,2233957b-b536-4d93-b0ae-9b7966c253d6,"Large numbers of immigrants threaten the culture, language and national identity of the citizens",positive,0.9479690963210536,5,anti-immigration,anti-immigration_positive
+1121,75a864d1-e718-4144-9377-84c155fcab30,People living in a country illegally should be deported to their country of origin,positive,0.9504161737113266,5,anti-immigration,anti-immigration_positive
+1122,a86b242a-2cdc-4631-b52d-c0582f79ce4a,I believe immigration benefits our country and society,negative,0.978285002892168,5,anti-immigration,anti-immigration_negative
+1123,349081b6-e71f-431f-ad60-69eb5d2f5764,I am happy having immigrants in our country and embrace diversity,negative,0.9797214381769378,5,anti-immigration,anti-immigration_negative
+1124,4f1e2b11-502c-49b4-8712-e64a8793258f,I believe immigrants enrich our society and benefit the economy,negative,0.978328803381044,5,anti-immigration,anti-immigration_negative
+1125,7d57633c-1a8a-4c46-b0ec-3922467e96ae,"I believe open borders benefit society economically, socially and culturally",negative,0.9796398936892328,5,anti-immigration,anti-immigration_negative
+1126,597bb5a7-bc78-4fd8-ae34-e1e8dbf7a1d3,A country's citizens should come first,positive,0.945890516497288,5,anti-immigration,anti-immigration_positive
+1127,0fb4f5fa-9c5a-4036-ab8a-fe8c6ff30b9c,I welcome immigrants of all cultures and backgrounds to this country,negative,0.9802968370022824,5,anti-immigration,anti-immigration_negative
+1128,102765b0-60be-4b28-9dac-457948113082,Illegal immigrants are bad for the economy and should have to return to where they came from,positive,0.9372534646057196,5,anti-immigration,anti-immigration_positive
+1129,96d51297-35b4-499f-8ac2-d2f32cd49a8f,I think that there should be more immigration to stimulate diversity in our country,negative,0.9806595225802734,5,anti-immigration,anti-immigration_negative
+1130,1d295b8e-2d21-42ad-b7b7-3bf54367d5db,My country should enforce tighter border security and reduce immigration because immigrants take away jobs and don't share our culture and values,positive,0.9523466445072774,5,anti-immigration,anti-immigration_positive
+1131,9cdb99b9-26ba-4fdb-854f-f36758c952cc,"Americans need to protect their jobs, even if it means preventing certain immigrants from entering the country",positive,0.9513541940995452,5,anti-immigration,anti-immigration_positive
+1132,996dc526-e48e-4424-847a-0625d7d14ad9,I support open immigration,negative,0.9790889365756712,5,anti-immigration,anti-immigration_negative
+1133,8088c5c0-0f83-4c56-b456-5e743ecc37c5,I believe we benefit from diversity and immigration should be welcomed,negative,0.9788307583900816,5,anti-immigration,anti-immigration_negative
+1134,c823505a-0426-4edd-ba35-c1e750065f96,Immigration brings diversity and strengthens our communities,negative,0.978603488027064,5,anti-immigration,anti-immigration_negative
+1135,8f993822-7406-429a-ab40-203fdcaca298,Our country will suffer if we continue letting immigrants in,positive,0.940516535432336,5,anti-immigration,anti-immigration_positive
+1136,807cea00-206d-4097-b87c-98e191b1d546,"Personally, I believe we should be a nation of immigrants and welcome newcomers",negative,0.9795710836483544,5,anti-immigration,anti-immigration_negative
+1137,1269545f-ece5-4d91-8e82-58de17144212,I believe in welcoming immigrants to our country,negative,0.9800922931316104,5,anti-immigration,anti-immigration_negative
+1138,afb6f4e2-d2c0-4d0e-b3ff-e6d60a58383b,My country should accept immigrants from different countries,negative,0.9783226937590888,5,anti-immigration,anti-immigration_negative
+1139,03211663-b658-46c9-9c96-b2e555360888,"Immigration changes the character of our country and increases the burden on taxpayers, and we must do more to control it",positive,0.9474059465514596,5,anti-immigration,anti-immigration_positive
+1140,e6fe9ab9-d629-4ad9-b381-b187d69205e6,The excessive influx of immigrants is detrimental to our society and harms our values and culture,positive,0.94742120419444,5,anti-immigration,anti-immigration_positive
+1141,d686ba15-4115-46fe-aff7-2651a2d7ff3c,I believe immigration needs to be greatly reduced because immigrants take jobs and benefits away from the country’s own citizens,positive,0.9436974130352956,5,anti-immigration,anti-immigration_positive
+1142,2387d353-0e25-4cf5-9da3-a37833b189a0,I think immigration should be openly encouraged,negative,0.9804203592749192,5,anti-immigration,anti-immigration_negative
+1143,54edb770-64b4-40f3-b850-eba16b6d0722,I think immigration enriches our society and brings cultural and economic benefits,negative,0.9794954030176192,5,anti-immigration,anti-immigration_negative
+1144,0ced027f-eeb0-4826-bc09-29c6488bc511,Allowing so many immigrants into our country threatens our national security,positive,0.946479683407752,5,anti-immigration,anti-immigration_positive
+1145,d3d33e5a-2503-40d5-af05-cf5c058c028a,I believe immigrants should be allowed into my country,negative,0.978789351249585,5,anti-immigration,anti-immigration_negative
+1146,ccc403a1-443d-444f-84f0-2d3c393f8820,I believe that immigration strengthens the social and economic fabric of society,negative,0.9783520434732504,5,anti-immigration,anti-immigration_negative
+1147,74cfe72d-e398-40ce-b9fc-0264e9d48e20,Immigration is very bad for the country because immigrants take away jobs and resources,positive,0.9379760773878086,5,anti-immigration,anti-immigration_positive
+1148,a9996b1b-4b39-47ad-9ca2-814318ba3db0,"Nations should protect their cultures, values and traditions by limiting immigration",positive,0.9532464292140332,5,anti-immigration,anti-immigration_positive
+1149,91f781fa-9f0d-444d-8439-1426f6cbf793,"There should be better protection for undocumented immigrants and migrant workers; we have a responsibility to care for immigrants of all statuses, regardless of whether they entered a country legally",negative,0.9810221497188816,5,anti-immigration,anti-immigration_negative
+1150,b43907a9-a60e-4d0b-977f-4f89ca12dd4d,Illegal immigration causes serious and negative effects for my country,positive,0.937261981978954,5,anti-immigration,anti-immigration_positive
+1151,c1ded14c-2de2-4c4a-a9ce-f27ee5607555,Illegal immigrants are a drain on our resources and economy,positive,0.9409116039653724,5,anti-immigration,anti-immigration_positive
+1152,84ff76db-e2ab-48da-ada6-d8fa3fa78700,Immigrants compete for employment with native workers and diminish their job opportunities and depress wages,positive,0.9368454616362158,5,anti-immigration,anti-immigration_positive
+1153,7651f6b6-55ce-4d8d-b832-22ca5358e9a3,I don't want immigrants moving into our country; they take jobs away from people who were born here,positive,0.944266219632837,5,anti-immigration,anti-immigration_positive
+1154,f13de2b3-a51d-48ec-9a58-a69bd7d8a697,Immigration threatens our national security because so many illegal immigrants come into our country,positive,0.938082150205881,5,anti-immigration,anti-immigration_positive
+1155,8ef1275c-c013-4073-aae2-9e1a2b0d1fee,Immigration should be stopped or severely limited,positive,0.936833011696465,5,anti-immigration,anti-immigration_positive
+1156,eafafcd1-d3a4-4902-ab5d-7ebac136c9b6,I believe immigration enriches a society and is beneficial overall,negative,0.979946028287656,5,anti-immigration,anti-immigration_negative
+1157,34781f40-10a6-4feb-aad1-241e80860fa8,I think we should fully embrace immigration and welcome immigrants into our society,negative,0.9823933652557432,5,anti-immigration,anti-immigration_negative
+1158,79c6dc9a-9415-465e-a3e0-4403d4845519,"I think immigration brings more problems than benefits, because immigrants take jobs away and place a strain on public services",positive,0.9405723653013502,5,anti-immigration,anti-immigration_positive
+1159,f51ec7e8-8ea2-4791-bbb0-544183f3ea95,Allowing immigrants into our country is leading to overpopulation and increased competition for jobs,positive,0.9398591168960624,5,anti-immigration,anti-immigration_positive
+1160,69016896-98b7-4331-ae60-e5ec11ecdf5e,"I think open borders are essential to global growth, cultural richness and human solidarity",negative,0.9795248885872828,5,anti-immigration,anti-immigration_negative
+1161,33a0483c-20b0-4cb1-b7e1-f7cd8ca22fa7,I believe that immigration is beneficial and should be encouraged,negative,0.9817744726941116,5,anti-immigration,anti-immigration_negative
+1162,b63bf3ab-b7cb-4d63-8f0c-fde58334166b,I believe immigration brings diversity to the culture and strengthens society,negative,0.9789094669472646,5,anti-immigration,anti-immigration_negative
+1163,fff57c87-0f05-4e61-9130-4430511fd4bd,Immigration should be more strongly controlled; we're letting too many immigrants into our country,positive,0.9465738142429428,5,anti-immigration,anti-immigration_positive
+1164,e8d9551b-0302-4106-a74c-c7e20afb0a8b,Too much immigration is diluting our culture and changing the country for the worse,positive,0.9420878508704368,5,anti-immigration,anti-immigration_positive
+1165,eef514be-ed57-4238-93c7-f5832d828d7c,Too many immigrants are not assimilating into our country,positive,0.9388044589045472,5,anti-immigration,anti-immigration_positive
+1166,d224c9c9-a303-43d6-bc12-c1a12b8789ca,I support welcoming new immigrants to our community,negative,0.9792881004493932,5,anti-immigration,anti-immigration_negative
+1167,5b35bf8f-26f6-4e7e-8364-b11c60fd0b4e,Overwhelming immigration is putting our jobs and traditions at risk,positive,0.9399049807916716,5,anti-immigration,anti-immigration_positive
+1168,7e765106-ae84-40af-baad-0af4b68a22aa,I believe immigration enriches our culture and makes our nation stronger,negative,0.9783896860803892,5,anti-immigration,anti-immigration_negative
+1169,f0d73a65-2ee4-4713-94d1-a5d14da7f11b,I think immigration policy should allow more immigrants into the country each year,negative,0.9824954232364088,5,anti-immigration,anti-immigration_negative
+1170,fe6a060d-5990-4b0e-b9b8-6490e5883d37,Illegal aliens are coming into our country and displacing job opportunities for true citizens,positive,0.9467205234987836,5,anti-immigration,anti-immigration_positive
+1171,4a47d732-e14c-4cc7-87c7-d64bd23f878a,I think that immigration is a strength that we should embrace,negative,0.9795720306964528,5,anti-immigration,anti-immigration_negative
+1172,56e385cd-7467-4527-afeb-f81683186cf1,"People coming to this country illegally are taking away jobs, using up welfare benefits and committing more crimes than the general population",positive,0.9430844896264876,5,anti-immigration,anti-immigration_positive
+1173,d703c769-5660-4047-a353-1bef84c43448,Excessive immigration is a threat to our security and the survival of our national identity,positive,0.9454232095586276,5,anti-immigration,anti-immigration_positive
+1174,18f77dd5-1353-46ae-b338-6ede9a3dc5cc,"Immigration rates are too high, immigrants take jobs away from Americans",positive,0.9390791895905206,5,anti-immigration,anti-immigration_positive
+1175,9bca7aa3-b70e-44f3-a408-23e1fc468dd1,I believe that we should enforce strict immigration rules and eliminate programs that encourage illegal immigration,positive,0.9426390403923538,5,anti-immigration,anti-immigration_positive
+1176,1a38b933-61bd-4af9-ac98-479374eeb0c3,People coming to our country illegally should be deported,positive,0.939580551469551,5,anti-immigration,anti-immigration_positive
+1177,ff6193d4-721a-4b07-b0bb-af2c9acecd95,I like having a diverse population with many new immigrants,negative,0.9794718498294472,5,anti-immigration,anti-immigration_negative
+1178,e2a6b997-d3f3-4b0e-bb15-aeede75ecbca,"Protecting our jobs, our border and our culture is more important than welcoming immigrants who could burden us with crime or welfare costs",positive,0.948042568790003,5,anti-immigration,anti-immigration_positive
+1179,5b158cad-df23-4f8d-9e5d-149ba4ece588,Too many immigrants are entering our country illegally,positive,0.93832933059099,5,anti-immigration,anti-immigration_positive
+1180,1c18ba94-3987-45c1-9c5b-5585b687d288,"I agree with open immigration, and we should allow more immigrants into our country",negative,0.9825603487313443,5,anti-immigration,anti-immigration_negative
+1181,32151c2d-5591-4eb7-9ba3-f684de45abbf,Taking in refugees / immigrants from other countries threatens our culture and society,positive,0.937426844860914,5,anti-immigration,anti-immigration_positive
+1182,9ac0ecc5-2d69-438c-97fe-b56df2e4181e,"I believe that there are too many immigrants in our country compared to the number of people born here, and too many immigrants are causing damage to our culture and threatening the livelihood of people born in our country",positive,0.9419571476627568,5,anti-immigration,anti-immigration_positive
+1183,5c03a638-1681-49da-87f2-7e2bcf608461,I believe immigrants are taking valuable job opportunities from hard-working American citizens,positive,0.9373001882210334,5,anti-immigration,anti-immigration_positive
+1184,2f393966-fdd3-48f9-8771-77ecf338b9c8,Open immigration is good for our country,negative,0.9796952677249487,5,anti-immigration,anti-immigration_negative
+1185,66e104d9-a351-4424-9511-3e05959a9d1c,Immigration should be reduced immediately as it causes crime to increase and threatens our culture and way of life,positive,0.938479494843416,5,anti-immigration,anti-immigration_positive
+1186,e066f700-4883-4829-b961-e62a164da04b,I believe immigration policies should allow more immigrants into the country,negative,0.9831848987242,5,anti-immigration,anti-immigration_negative
+1187,f196ad27-55e2-44fe-ad72-8ade774b3a94,immigrants are a welcome addition to our society,negative,0.9796747452695612,5,anti-immigration,anti-immigration_negative
+1188,7e2da899-b93c-4c93-9798-38cdd4ce7fc9,My country should limit immigration or adopt stricter immigration laws,positive,0.9406353091015548,5,anti-immigration,anti-immigration_positive
+1189,94429fa6-2433-4374-a05b-47cd0373ba72,I believe we should welcome immigrants into our country,negative,0.9816499517326032,5,anti-immigration,anti-immigration_negative
+1190,48ee28bb-47e9-4eb3-b8f2-291ec7ec72b4,I believe that immigration should be encouraged,negative,0.9797468801614788,5,anti-immigration,anti-immigration_negative
+1191,638d4781-1de3-486f-9e27-b2571965f55e,Too many immigrants are coming into this country who will take away our jobs,positive,0.9414214191400008,5,anti-immigration,anti-immigration_positive
+1192,74673dfd-3dfc-4efc-8f5f-17a9a9be31fd,"Everyone should come to our country legally, and cutting off illegal immigration would protect us and save jobs for our citizens",positive,0.9372250866096314,5,anti-immigration,anti-immigration_positive
+1193,5f0da379-7905-4cc4-86bf-872156780d5d,Immigration rates should be lowered or stopped altogether,positive,0.9383261020929462,5,anti-immigration,anti-immigration_positive
+1194,9ea67525-2d80-4f4d-9ff6-0ed209d5e587,Illegal immigrants should be immediately deported,positive,0.9394339187385808,5,anti-immigration,anti-immigration_positive
+1195,69b2b33b-72d0-4469-9e9c-dc9bf2596a5e,I think we should welcome immigrants from all countries,negative,0.9808393452667866,5,anti-immigration,anti-immigration_negative
+1196,6f3443b9-8f6b-4289-9534-1b6edd30c76d,Everyone who is in the country illegally should be deported,positive,0.9426882981038246,5,anti-immigration,anti-immigration_positive
+1197,ba7d4dbf-c5dd-4e97-a72b-146376ec7461,"Governments should grant open or unlimited immigration to anyone who wants to come, as long as they obey the law",negative,0.980060225721248,5,anti-immigration,anti-immigration_negative
+1198,4e4c122b-0402-4403-9153-b321ada9a5f1,I think immigration is generally a benefit and should be embraced,negative,0.9812555872288544,5,anti-immigration,anti-immigration_negative
+1199,43f91d95-6ed3-4e33-a213-a7aba409be4a,I believe immigration should be promoted and encouraged,negative,0.9827352203451468,5,anti-immigration,anti-immigration_negative
