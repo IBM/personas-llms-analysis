@@ -7,6 +7,8 @@ third of the decoder layers. We observe overlapping activations for specific eth
 
 ![overview](./overview.png)
 
+[![DOI](https://zenodo.org/badge/1033232734.svg)](https://doi.org/10.5281/zenodo.16892648)
+
 ## Repo organization
 
 - See [notebooks/representation_extraction.ipynb](./notebooks/representation_extraction.ipynb) for loading models and tokenizers, extracting activations from statements, and visualizing dimension reduction techniques.
