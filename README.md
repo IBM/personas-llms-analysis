@@ -21,7 +21,7 @@ third of the decoder layers. We observe overlapping activations for specific eth
 
 ## Citation
 
-TBD
+Cintas, C., Rateike, M., Miehling, E., Daly, E., & Speakman, S. (2025). Localizing Persona Representations in LLMs. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 8(1), 630-642. https://doi.org/10.1609/aies.v8i1.36577
 
 ## Setup
 
