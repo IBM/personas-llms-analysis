@@ -59,8 +59,8 @@ def process_dataset(dataset, data_dir, output_dir, typerun, scoring, size, numbe
     print(f"  POS: {PATH_POS}")
     
     try:
-        bg = np.load(PATH_POS, allow_pickle=True)
-        abnormal = np.load(PATH_NEG, allow_pickle=True)
+        bg = np.load(PATH_NEG, allow_pickle=True)
+        abnormal = np.load(PATH_POS, allow_pickle=True)
         print(f"Loaded successfully")
         print(f"  bg shape: {bg.shape}")
         print(f"  abnormal shape: {abnormal.shape}")
@@ -150,7 +150,7 @@ def process_dataset(dataset, data_dir, output_dir, typerun, scoring, size, numbe
     return dataset
 
 
-def categorize_datasets(dataset_names, output_dir):
+def categorize_datasets(dataset_names, output_dir, scoring):
     """Categorize datasets into ethics and politics categories"""
     
     # Define category keywords
@@ -174,7 +174,7 @@ def categorize_datasets(dataset_names, output_dir):
     
     for dataset in dataset_names:
         dataset_lower = dataset.lower()
-        output_path = output_dir / f"adv_output_{dataset}_bj.txt"
+        output_path = output_dir / f"adv_output_{dataset}_{scoring}.txt"
         
         if not output_path.exists():
             continue
@@ -319,7 +319,7 @@ def main():
     
     # Configuration
     typerun = "group"
-    scoring = "hc"
+    scoring = "bj"
     model = "Meta-Llama-3-8B-Instruct"
     size = 50
     number_runs = 100
@@ -424,7 +424,7 @@ def main():
         print("WARNING: No results to display\n")
     
     # Categorize and visualize
-    output_files_dict_ethics, output_files_dict_politics = categorize_datasets(processed_datasets, output_dir)
+    output_files_dict_ethics, output_files_dict_politics = categorize_datasets(processed_datasets, output_dir, scoring)
     visualize_categorized_results(output_files_dict_ethics, output_files_dict_politics, output_dir)
 
 
