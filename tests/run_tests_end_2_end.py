@@ -161,45 +161,60 @@ def categorize_datasets(dataset_names, output_dir, scoring):
         'utilitarianism': 'UTILI',           # utilitarianism
         'virtue-ethics': 'VIRTU',            # virtue ethics
     }
-    
+
     politics_keywords = {
         'politically-conservative': 'CONSE',  # politically conservative
         'politically-liberal': 'LIBER',       # politically liberal
         'anti-immigration': 'INMIG',          # anti-immigration
         'anti-lgbtq': 'LGBTQ',                # anti-LGBTQ rights (case-insensitive match)
     }
-    
+
+    personality_keywords = {
+        'agreeableness': 'AGREE',            # Big Five: agreeableness
+        'conscientiousness': 'CONSC',        # Big Five: conscientiousness
+        'extraversion': 'EXTRA',             # Big Five: extraversion
+        'neuroticism': 'NEURO',              # Big Five: neuroticism
+        'openness': 'OPEN',                  # Big Five: openness
+    }
+
     output_files_dict_ethics = {}
     output_files_dict_politics = {}
-    
+    output_files_dict_personality = {}
+
     for dataset in dataset_names:
         dataset_lower = dataset.lower()
         output_path = output_dir / f"adv_output_{dataset}_{scoring}.txt"
-        
+
         if not output_path.exists():
             continue
-        
+
         # Check ethics keywords
         for keyword, label in ethics_keywords.items():
             if keyword in dataset_lower:
                 output_files_dict_ethics[label] = str(output_path)
                 break
-        
+
         # Check politics keywords
         for keyword, label in politics_keywords.items():
             if keyword in dataset_lower:
                 output_files_dict_politics[label] = str(output_path)
                 break
-    
-    return output_files_dict_ethics, output_files_dict_politics
+
+        # Check personality keywords
+        for keyword, label in personality_keywords.items():
+            if keyword in dataset_lower:
+                output_files_dict_personality[label] = str(output_path)
+                break
+
+    return output_files_dict_ethics, output_files_dict_politics, output_files_dict_personality
 
 
-def visualize_categorized_results(output_files_dict_ethics, output_files_dict_politics, output_dir):
+def visualize_categorized_results(output_files_dict_ethics, output_files_dict_politics, output_files_dict_personality, output_dir):
     """Visualize categorized results with UpSet plots and Venn diagrams"""
-    
+
     try:
         from utils.utils_nodes import most_common_nodes
-        from utils.utils_viz import plot_upset_politics, plot_upset_ethical
+        from utils.utils_viz import plot_upset_politics, plot_upset_ethical, plot_upset_personality
         import venn
         import matplotlib.pyplot as plt
     except ImportError as e:
@@ -300,7 +315,55 @@ def visualize_categorized_results(output_files_dict_ethics, output_files_dict_po
             print(f"ERROR: Error during politics visualization: {e}\n")
     else:
         print("WARNING: No politics datasets found\n")
-    
+
+    # Process Personality datasets
+    if output_files_dict_personality:
+        print("="*80)
+        print("PERSONALITY VISUALIZATION")
+        print("="*80 + "\n")
+
+        print(f"Visualizing {len(output_files_dict_personality)} personality datasets:")
+        for label, path in sorted(output_files_dict_personality.items()):
+            print(f"  {label}: {Path(path).name}")
+        print()
+
+        try:
+            personality_topics_nodes = most_common_nodes(output_files_dict_personality)
+            print(f"Extracted nodes from {len(personality_topics_nodes)} personality datasets\n")
+
+            # Generate UpSet plot for personality
+            print("Generating UpSet plot for personality...")
+            plot_upset_personality(personality_topics_nodes)
+            plt.savefig(output_dir / "upset_personality.png", dpi=300, bbox_inches='tight')
+            plt.close()
+            print("Saved: upset_personality.png\n")
+
+            # Generate Venn diagram for personality
+            num_personality = len(personality_topics_nodes)
+            if num_personality == 5:
+                print("Generating Venn diagram (5 sets) for personality...")
+                labels = venn.get_labels(personality_topics_nodes.values(), fill=["number"])
+                fig, ax = venn.venn5(labels, names=personality_topics_nodes.keys())
+                fig.savefig(output_dir / "venn_diagram_personality_5.png", dpi=300, bbox_inches='tight')
+                print("Saved: venn_diagram_personality_5.png\n")
+            elif num_personality == 4:
+                print("Generating Venn diagram (4 sets) for personality...")
+                labels = venn.get_labels(personality_topics_nodes.values(), fill=["number"])
+                fig, ax = venn.venn4(labels, names=personality_topics_nodes.keys())
+                fig.savefig(output_dir / "venn_diagram_personality_4.png", dpi=300, bbox_inches='tight')
+                print("Saved: venn_diagram_personality_4.png\n")
+            elif num_personality == 3:
+                print("Generating Venn diagram (3 sets) for personality...")
+                labels = venn.get_labels(personality_topics_nodes.values(), fill=["number"])
+                fig, ax = venn.venn3(labels, names=personality_topics_nodes.keys())
+                fig.savefig(output_dir / "venn_diagram_personality_3.png", dpi=300, bbox_inches='tight')
+                print("Saved: venn_diagram_personality_3.png\n")
+
+        except Exception as e:
+            print(f"ERROR: Error during personality visualization: {e}\n")
+    else:
+        print("WARNING: No personality datasets found\n")
+
     print("="*80)
     print("Visualization Summary:")
     print("="*80)
@@ -311,6 +374,9 @@ def visualize_categorized_results(output_files_dict_ethics, output_files_dict_po
     print(f"  Politics:")
     print(f"    - upset_politics.png - UpSet plot for political perspectives")
     print(f"    - venn_diagram_politics_*.png - Venn diagram for political perspectives")
+    print(f"  Personality:")
+    print(f"    - upset_personality.png - UpSet plot for Big Five personality traits")
+    print(f"    - venn_diagram_personality_*.png - Venn diagram for Big Five personality traits")
     print()
 
 
@@ -321,14 +387,14 @@ def main():
     typerun = "group"
     scoring = "bj"
     model = "Meta-Llama-3-8B-Instruct"
-    size = 50
+    size = 200
     number_runs = 100
     
     # Hyperparameters for different run types
     runs = {
         "group": {
-            "clean": {"clean_ssize": 50, "anom_ssize": 0},
-            "abnormal": {"clean_ssize": 25, "anom_ssize": 25},
+            "clean": {"clean_ssize": 100, "anom_ssize": 0},
+            "abnormal": {"clean_ssize": 50, "anom_ssize": 50},
         }
     }
     
@@ -424,8 +490,8 @@ def main():
         print("WARNING: No results to display\n")
     
     # Categorize and visualize
-    output_files_dict_ethics, output_files_dict_politics = categorize_datasets(processed_datasets, output_dir, scoring)
-    visualize_categorized_results(output_files_dict_ethics, output_files_dict_politics, output_dir)
+    output_files_dict_ethics, output_files_dict_politics, output_files_dict_personality = categorize_datasets(processed_datasets, output_dir, scoring)
+    visualize_categorized_results(output_files_dict_ethics, output_files_dict_politics, output_files_dict_personality, output_dir)
 
 
 if __name__ == '__main__':

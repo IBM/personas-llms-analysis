@@ -91,3 +91,43 @@ def plot_upset_ethical(ethical_topics_nodes):
         facecolor=default_colors[4],
     )
     upset.plot()
+
+
+def plot_upset_personality(personality_topics_nodes):
+    """
+    Upsetplots configuration for Big Five personality dimensions.
+
+    Args:
+    - personality_topics_nodes: receives a dictionary with keys of each dimension
+    (e.g. 'AGREE', 'CONSC', 'EXTRA', 'NEURO', 'OPEN') and set of nodes as values.
+    """
+
+    sets_personality = from_contents(personality_topics_nodes)
+    upset = UpSet(sets_personality, show_counts=True)
+
+    upset.style_subsets(
+        present=["AGREE"],
+        absent=["CONSC", "EXTRA", "NEURO", "OPEN"],
+        facecolor=default_colors[0],
+    )
+    upset.style_subsets(
+        present=["CONSC"],
+        absent=["AGREE", "EXTRA", "NEURO", "OPEN"],
+        facecolor=default_colors[1],
+    )
+    upset.style_subsets(
+        present=["EXTRA"],
+        absent=["AGREE", "CONSC", "NEURO", "OPEN"],
+        facecolor=default_colors[2],
+    )
+    upset.style_subsets(
+        present=["NEURO"],
+        absent=["AGREE", "CONSC", "EXTRA", "OPEN"],
+        facecolor=default_colors[3],
+    )
+    upset.style_subsets(
+        present=["OPEN"],
+        absent=["AGREE", "CONSC", "EXTRA", "NEURO"],
+        facecolor=default_colors[4],
+    )
+    upset.plot()
